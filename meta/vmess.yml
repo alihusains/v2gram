@@ -32,144 +32,29 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: "@v2ray_outlineir| AHS -🇧🇾|168.57"
-    server: 5.161.151.243
-    port: 443
+  - name: "@oneclickvpnkeys| AHS -🇫🇷|154.54"
+    server: 162.19.248.238
+    port: 550
     type: vmess
-    uuid: 3d1fab6e-3bd6-472b-8d9c-9934c04eaf40
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: internet.life.com.by
-    network: http
-    http-opts:
-      method: GET
-      path:
-        - /
-      headers:
-        Host:
-          - internet.life.com.by
-    udp: true
-  - name: "@oneclickvpnkeys| AHS -🚩|9.18"
-    server: v13.583182.xyz
-    port: 2053
-    type: vmess
-    uuid: a70a44d5-c6f5-494c-a914-7964474cc2de
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: v13.583181.xyz
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: v13.583181.xyz
-    udp: true
-  - name: "@oneclickvpnkeys| AHS -🇺🇸|9.14"
-    server: v14.583182.xyz
-    port: 8443
-    type: vmess
-    uuid: a70a44d5-c6f5-494c-a914-7964474cc2de
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: v14.583181.xyz
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: v14.583181.xyz
-    udp: true
-  - name: "@oneclickvpnkeys| AHS -🇺🇸|9.04"
-    server: v1.583182.xyz
-    port: 2096
-    type: vmess
-    uuid: a70a44d5-c6f5-494c-a914-7964474cc2de
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: v1.583181.xyz
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: v1.583181.xyz
-    udp: true
-  - name: "@vpnfail_v2ray| AHS -🇺🇸|179.48"
-    server: 23.108.100.101
-    port: 443
-    type: vmess
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ""
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: ""
-    udp: true
-  - name: "@vpnfail_v2ray| AHS -🇺🇸|9.14"
-    server: 172.67.207.114
-    port: 443
-    type: vmess
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 1
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ophelia.mom
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: ophelia.mom
-    udp: true
-  - name: "@vpnfail_v2ray| AHS -🇺🇸|9.01"
-    server: 172.67.197.82
-    port: 443
-    type: vmess
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 1
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: odelia.autos
-    network: ws
-    ws-opts:
-      path: linkvws
-      headers:
-        Host: odelia.autos
-    udp: true
-  - name: "@hassan_saboorii| AHS -🇷🇸|151.31"
-    server: 37.120.193.102
-    port: 52920
-    type: vmess
-    uuid: 57170ff0-7180-4664-8f61-8debdda345f7
-    alterId: 64
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: ""
-    udp: true
-  - name: "@hassan_saboorii| AHS -🇨🇦|69.72"
-    server: 198.57.27.212
-    port: 22324
-    type: vmess
-    uuid: 04621bae-ab36-11ec-b909-0242ac120002
+    uuid: ede27a79-b039-490b-932c-495de4b68880
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
     servername: ""
     udp: true
-  - name: "@v2rayvmess| AHS -🇺🇸|8.95"
+  - name: "@oneclickvpnkeys| AHS -🇩🇪|157.51"
+    server: 85.195.101.122
+    port: 40878
+    type: vmess
+    uuid: f3d4167e-b15e-4e46-82e9-9286ef93fda7
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    udp: true
+  - name: "@v2rayvmess| AHS -🇺🇸|2.21"
     server: id-lb.vhax.net
     port: 80
     type: vmess
@@ -185,91 +70,38 @@ proxies:
       headers:
         Host: zoom.us
     udp: true
-  - name: "@ShadowProxy66| AHS -🇺🇸|9"
-    server: 104.20.151.9
+  - name: "@free1_vpn| AHS -🇫🇷|150.59"
+    server: 217.69.5.32
     port: 443
     type: vmess
-    uuid: c8abf66a-1903-4638-a448-9c86733e4254
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: Sandp.Blanku.Me
-    network: ws
-    ws-opts:
-      path: /wss13480
-      headers:
-        Host: Sand.Blanku.Me
-    udp: true
-  - name: "@ShadowProxy66| AHS -🇺🇸|9.64"
-    server: 104.21.47.204
-    port: 443
-    type: vmess
-    uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: bdd5db87-d943-450e-99cf-bc95c28f0363.asoul-diana.xyz
-    network: ws
-    ws-opts:
-      path: /azumase.ren
-      headers:
-        Host: bdd5db87-d943-450e-99cf-bc95c28f0363.asoul-diana.xyz
-    udp: true
-  - name: "@ShadowProxy66| AHS -🇷🇺|168.67"
-    server: 172.67.132.209
-    port: 80
-    type: vmess
-    uuid: 7e67dfca-3f0d-4ba1-a7e8-b272bcfc156f
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: is2-vmess.sshmax.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: is2-vmess.sshmax.xyz
-    udp: true
-  - name: "@v2ray1_ng| AHS -🇩🇪|139.01"
-    server: b2.talamala.co
-    port: 53797
-    type: vmess
-    uuid: 2946527d-830f-429d-8969-f6acb68b0876
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ""
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: ""
-    udp: true
-  - name: "@v2ray1_ng| AHS -🇺🇸|49.07"
-    server: 5.161.196.168
-    port: 3389
-    type: vmess
-    uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+    uuid: ec4c349c-b3c6-4cff-be63-01eaad1dc098
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
     servername: ""
-    network: http
-    http-opts:
-      method: GET
-      path:
-        - /
     udp: true
-  - name: "@yaney_01| AHS -🇩🇪|unavailable"
-    server: 45.155.249.17
-    port: 80
+  - name: "@hope_net| AHS -🇩🇪|155.28"
+    server: 172.67.156.22
+    port: 443
     type: vmess
-    uuid: 9fd713f3-0896-4d67-8a97-038b388ee017
+    uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nezuko.raidenshogun.cloudns.org
+    network: ws
+    ws-opts:
+      path: /linkws/afrhms16v.bestxray.buzz
+      headers:
+        Host: nezuko.raidenshogun.cloudns.org
+    udp: true
+  - name: "@hope_net| AHS -🚩|1.83"
+    server: 104.18.37.248
+    port: 2052
+    type: vmess
+    uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
     alterId: 0
     cipher: auto
     tls: false
@@ -278,22 +110,6 @@ proxies:
     network: ws
     ws-opts:
       path: /
-      headers:
-        Host: ""
-    udp: true
-  - name: "@yaney_01| AHS -🇺🇸|143.71"
-    server: 156.225.67.96
-    port: 443
-    type: vmess
-    uuid: 5a4d69ad-20a9-4941-b223-87bbd09f5f52
-    alterId: 64
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: ""
-    network: ws
-    ws-opts:
-      path: /path/1696251693048
       headers:
         Host: ""
     udp: true
@@ -301,23 +117,12 @@ proxy-groups:
   - name: MANUAL
     type: select
     proxies:
-      - "@v2ray_outlineir| AHS -🇧🇾|168.57"
-      - "@oneclickvpnkeys| AHS -🚩|9.18"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.14"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.04"
-      - "@vpnfail_v2ray| AHS -🇺🇸|179.48"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.14"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.01"
-      - "@hassan_saboorii| AHS -🇷🇸|151.31"
-      - "@hassan_saboorii| AHS -🇨🇦|69.72"
-      - "@v2rayvmess| AHS -🇺🇸|8.95"
-      - "@ShadowProxy66| AHS -🇺🇸|9"
-      - "@ShadowProxy66| AHS -🇺🇸|9.64"
-      - "@ShadowProxy66| AHS -🇷🇺|168.67"
-      - "@v2ray1_ng| AHS -🇩🇪|139.01"
-      - "@v2ray1_ng| AHS -🇺🇸|49.07"
-      - "@yaney_01| AHS -🇩🇪|unavailable"
-      - "@yaney_01| AHS -🇺🇸|143.71"
+      - "@oneclickvpnkeys| AHS -🇫🇷|154.54"
+      - "@oneclickvpnkeys| AHS -🇩🇪|157.51"
+      - "@v2rayvmess| AHS -🇺🇸|2.21"
+      - "@free1_vpn| AHS -🇫🇷|150.59"
+      - "@hope_net| AHS -🇩🇪|155.28"
+      - "@hope_net| AHS -🚩|1.83"
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -328,67 +133,34 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - "@v2ray_outlineir| AHS -🇧🇾|168.57"
-      - "@oneclickvpnkeys| AHS -🚩|9.18"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.14"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.04"
-      - "@vpnfail_v2ray| AHS -🇺🇸|179.48"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.14"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.01"
-      - "@hassan_saboorii| AHS -🇷🇸|151.31"
-      - "@hassan_saboorii| AHS -🇨🇦|69.72"
-      - "@v2rayvmess| AHS -🇺🇸|8.95"
-      - "@ShadowProxy66| AHS -🇺🇸|9"
-      - "@ShadowProxy66| AHS -🇺🇸|9.64"
-      - "@ShadowProxy66| AHS -🇷🇺|168.67"
-      - "@v2ray1_ng| AHS -🇩🇪|139.01"
-      - "@v2ray1_ng| AHS -🇺🇸|49.07"
-      - "@yaney_01| AHS -🇩🇪|unavailable"
-      - "@yaney_01| AHS -🇺🇸|143.71"
+      - "@oneclickvpnkeys| AHS -🇫🇷|154.54"
+      - "@oneclickvpnkeys| AHS -🇩🇪|157.51"
+      - "@v2rayvmess| AHS -🇺🇸|2.21"
+      - "@free1_vpn| AHS -🇫🇷|150.59"
+      - "@hope_net| AHS -🇩🇪|155.28"
+      - "@hope_net| AHS -🚩|1.83"
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - "@v2ray_outlineir| AHS -🇧🇾|168.57"
-      - "@oneclickvpnkeys| AHS -🚩|9.18"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.14"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.04"
-      - "@vpnfail_v2ray| AHS -🇺🇸|179.48"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.14"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.01"
-      - "@hassan_saboorii| AHS -🇷🇸|151.31"
-      - "@hassan_saboorii| AHS -🇨🇦|69.72"
-      - "@v2rayvmess| AHS -🇺🇸|8.95"
-      - "@ShadowProxy66| AHS -🇺🇸|9"
-      - "@ShadowProxy66| AHS -🇺🇸|9.64"
-      - "@ShadowProxy66| AHS -🇷🇺|168.67"
-      - "@v2ray1_ng| AHS -🇩🇪|139.01"
-      - "@v2ray1_ng| AHS -🇺🇸|49.07"
-      - "@yaney_01| AHS -🇩🇪|unavailable"
-      - "@yaney_01| AHS -🇺🇸|143.71"
+      - "@oneclickvpnkeys| AHS -🇫🇷|154.54"
+      - "@oneclickvpnkeys| AHS -🇩🇪|157.51"
+      - "@v2rayvmess| AHS -🇺🇸|2.21"
+      - "@free1_vpn| AHS -🇫🇷|150.59"
+      - "@hope_net| AHS -🇩🇪|155.28"
+      - "@hope_net| AHS -🚩|1.83"
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - "@v2ray_outlineir| AHS -🇧🇾|168.57"
-      - "@oneclickvpnkeys| AHS -🚩|9.18"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.14"
-      - "@oneclickvpnkeys| AHS -🇺🇸|9.04"
-      - "@vpnfail_v2ray| AHS -🇺🇸|179.48"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.14"
-      - "@vpnfail_v2ray| AHS -🇺🇸|9.01"
-      - "@hassan_saboorii| AHS -🇷🇸|151.31"
-      - "@hassan_saboorii| AHS -🇨🇦|69.72"
-      - "@v2rayvmess| AHS -🇺🇸|8.95"
-      - "@ShadowProxy66| AHS -🇺🇸|9"
-      - "@ShadowProxy66| AHS -🇺🇸|9.64"
-      - "@ShadowProxy66| AHS -🇷🇺|168.67"
-      - "@v2ray1_ng| AHS -🇩🇪|139.01"
-      - "@v2ray1_ng| AHS -🇺🇸|49.07"
-      - "@yaney_01| AHS -🇩🇪|unavailable"
-      - "@yaney_01| AHS -🇺🇸|143.71"
+      - "@oneclickvpnkeys| AHS -🇫🇷|154.54"
+      - "@oneclickvpnkeys| AHS -🇩🇪|157.51"
+      - "@v2rayvmess| AHS -🇺🇸|2.21"
+      - "@free1_vpn| AHS -🇫🇷|150.59"
+      - "@hope_net| AHS -🇩🇪|155.28"
+      - "@hope_net| AHS -🚩|1.83"
 rules:
   - MATCH,MANUAL
