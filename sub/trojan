@@ -1,9 +1,6 @@
-trojan://telegram-id-privatevpns@13.39.200.50:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -151.86
-trojan://telegram-id-directvpn@3.65.79.146:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -157.59
-trojan://telegram-id-directvpn@13.39.200.50:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -151.8
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=1&security=tls&sni=ads.x5.ru&type=tcp#🇩🇪|@oneclickvpnkeys| AHS -159.91
-trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=fi2.nnvpn.io&type=tcp#🇫🇮|@oneclickvpnkeys| AHS -333.15
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&fp=chrome&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🇮🇸|@oneclickvpnkeys| AHS -158.05
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -2.24
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -1.53
-trojan://humanity@104.18.32.47:443?allowInsecure=0&fp=chrome&host=www.multiplydose.com&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@ConfigsHUB| AHS -1.83
+trojan://telegram-id-privatevpns@13.39.200.50:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -129.65
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=1&security=tls&sni=ads.x5.ru&type=tcp#🇩🇪|@oneclickvpnkeys| AHS -140.46
+trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=fi2.nnvpn.io&type=tcp#🇫🇮|@oneclickvpnkeys| AHS -317.89
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&fp=chrome&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🇮🇸|@oneclickvpnkeys| AHS -140.69
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -9.4
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -8.83
