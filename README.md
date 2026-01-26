@@ -1,5 +1,5 @@
 # V2ray Collector
-[![Collector](https://github.com/alihusainsorathiya/v2gram/actions/workflows/php.yml/badge.svg)](https://github.com/alihusainsorathiya/v2gram/actions/workflows/php.yml) [![Channels](https://github.com/alihusainsorathiya/v2gram/actions/workflows/channel_assets.yml/badge.svg)](https://github.com/alihusainsorathiya/v2gram/actions/workflows/channel_assets.yml)
+[![Collector](https://github.com/alihusains/v2gram/actions/workflows/php.yml/badge.svg)](https://github.com/alihusains/v2gram/actions/workflows/php.yml) [![Channels](https://github.com/alihusains/v2gram/actions/workflows/channel_assets.yml/badge.svg)](https://github.com/alihusains/v2gram/actions/workflows/channel_assets.yml)
 
 <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
 
@@ -11,12 +11,12 @@ Just import the following subscription link into the corresponding client. Use a
 
 | CONFIG TYPE | NORMAL SUBSCRIPTION | BASE64 SUBSCRIPTION | CLASH SUBSCRIPTION | CLASH.Meta SUBSCRIPTION |
 |---|---|---|---|---|
-| MIX of ALL | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/mix) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/mix_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/clash/mix.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/mix.yml) |
-| VMESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/vmess) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/vmess_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/clash/vmess.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/vmess.yml) |
-| VLESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/vless) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/vless_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/vless.yml) |
-| REALITY | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/reality) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/reality_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/reality.yml) |
-| TROJAN | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/trojan) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/trojan_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/clash/trojan.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/trojan.yml) |
-| ShadowSocks | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/shadowsocks) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/shadowsocks_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/clash/shadowsocks.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusainsorathiya/v2gram/raw/main/meta/shadowsocks.yml) |
+| MIX of ALL | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/mix) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/mix_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/clash/mix.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/mix.yml) |
+| VMESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/vmess) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/vmess_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/clash/vmess.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/vmess.yml) |
+| VLESS | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/vless) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/vless_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/vless.yml) |
+| REALITY | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/reality) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/reality_base64) | - | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/reality.yml) |
+| TROJAN | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/trojan) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/trojan_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/clash/trojan.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/trojan.yml) |
+| ShadowSocks | [NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/shadowsocks) | [BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/alihusains/v2gram/main/sub/shadowsocks_base64) | [CLASH SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/clash/shadowsocks.yml) | [CLASH.Meta SUBSCRIPTION](https://github.com/alihusains/v2gram/raw/main/meta/shadowsocks.yml) |
 
 ## Manual Subs Conversion
 - If your client does not support the formats that provided here use below services to convert them to your client format (like surfboard)
@@ -32,9 +32,9 @@ https://pub-api-1.bianyuan.xyz/sub?target=(OutputFormat)&url=(SubUrl)&insert=fal
 
 For Example:
 (OutputFormat) = clash
-(SubUrl) = https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/mix_base64
+(SubUrl) = https://raw.githubusercontent.com/alihusains/v2gram/main/sub/mix_base64
 
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/alihusainsorathiya/v2gram/main/sub/mix_base64&insert=false
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/alihusains/v2gram/main/sub/mix_base64&insert=false
 
 Now you can use the link above to import the subs into your client
 ```
