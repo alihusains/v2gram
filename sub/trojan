@@ -1,9 +1,7 @@
-trojan://telegram-id-privatevpns@51.44.43.148:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -175.41
-trojan://telegram-id-directvpn@51.44.43.148:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -157.35
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🇮🇸|@oneclickvpnkeys| AHS -137.19
-trojan://telegram-id-directvpn@13.39.63.241:22223?allowInsecure=1&alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@oneclickvpnkeys| AHS -171.7
-trojan://telegram-id-directvpn@51.44.43.148:22223?allowInsecure=1&alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@oneclickvpnkeys| AHS -127.3
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@v2ray1_ng| AHS -23.64
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -24.11
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -18.01
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&fp=chrome&headerType=none&insecure=1&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@ANA_Service| AHS -181.88
+trojan://telegram-id-privatevpns@13.37.8.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -112.84
+trojan://telegram-id-directvpn@13.37.8.71:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -117.39
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🇮🇸|@oneclickvpnkeys| AHS -125.26
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@v2ray1_ng| AHS -15.06
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -10.23
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -8.83
+trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&fp=chrome&headerType=none&insecure=1&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@ANA_Service| AHS -186.21
