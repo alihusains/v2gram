@@ -1,12 +1,11 @@
-trojan://telegram-id-privatevpns@52.58.227.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -135.28
-trojan://telegram-id-directvpn@52.58.227.219:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -133.45
-trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&security=tls&sni=io.ozone.ru&type=tcp#🇳🇴|@oneclickvpnkeys| AHS -173.58
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&security=tls&type=ws#🚩|@oneclickvpnkeys| AHS -6.44
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -5.97
-trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -7.03
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -5.87
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -6.17
-trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -7.21
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&type=ws#🇬🇧|@V2raysCollector| AHS -99.79
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls#🇬🇧|@V2raysCollector| AHS -97.79
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&type=ws#🇬🇧|@V2raysCollector| AHS -207.3
+trojan://telegram-id-directvpn@15.188.233.114:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -116.95
+trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&security=tls&sni=io.ozone.ru&type=tcp#🇳🇴|@oneclickvpnkeys| AHS -130.9
+trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&security=tls&type=ws#🚩|@oneclickvpnkeys| AHS -15.84
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -12.61
+trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -15.84
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -12.33
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -14.51
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -14.5
+trojan://20a3d819-ca7f-48a6-ba20-f7021e8dbbbe@220.130.58.136:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#🇹🇼|@V2raysCollector| AHS -229.09
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@bnhju.8mm.ccwu.cc:443?allowInsecure=0&alpn=http%2F1.1&host=bnhju.8mm.ccwu.cc&insecure=0&path=%2F8uSIAS1cIyvZXFAbvQEN&security=tls&sni=bnhju.8mm.ccwu.cc&type=ws#🚩|@V2raysCollector| AHS -14.68
+trojan://4c205c81-5694-43fe-a287-af563a2ebc05@r56.bb0.ccwu.cc:443?allowInsecure=1&path=%2FP23lDbkARo4gds7cXpDB5nO5&security=tls&sni=r56.bb0.ccwu.cc&type=ws#🚩|@V2raysCollector| AHS -13.78
