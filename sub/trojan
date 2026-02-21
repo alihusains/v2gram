@@ -1,15 +1,14 @@
-trojan://telegram-id-privatevpns@35.181.213.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -87.83
-trojan://telegram-id-privatevpns@3.65.47.214:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -89.12
-trojan://telegram-id-directvpn@35.181.213.186:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -84.35
-trojan://telegram-id-directvpn@52.29.75.76:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -140.22
-trojan://telegram-id-directvpn@3.65.47.214:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -91.11
-trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&security=tls&sni=io.ozone.ru&type=tcp#🇳🇴|@oneclickvpnkeys| AHS -98.49
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&security=tls&type=ws#🚩|@oneclickvpnkeys| AHS -6.91
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -6.26
-trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -6.93
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -6.08
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -5.9
-trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -5.98
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?host=hl-freedom-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-2.undef.network&type=ws#🇲🇩|@V2raysCollector| AHS -86.67
-trojan://humanity@188.114.96.3:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@V2raysCollector| AHS -5.78
-trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@V2raysCollector| AHS -5.76
+trojan://telegram-id-privatevpns@35.181.213.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -116.56
+trojan://telegram-id-directvpn@35.181.213.186:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -118.96
+trojan://telegram-id-directvpn@52.29.75.76:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -125.77
+trojan://telegram-id-directvpn@3.65.47.214:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -118.98
+trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&security=tls&sni=io.ozone.ru&type=tcp#🇳🇴|@oneclickvpnkeys| AHS -138.32
+trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&path=%2Famd&security=tls&type=ws#🚩|@oneclickvpnkeys| AHS -16.17
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -13.88
+trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -10.85
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -14.29
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -11.7
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -13.92
+trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=true&security=tls#🇳🇴|@V2raysCollector| AHS -124.56
+trojan://humanity@www.creationlong.org:443?alpn=h2%2Chttp%2F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@V2raysCollector| AHS -10.73
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?allowInsecure=1&headerType=none&insecure=1&security=tls&sni=iepl.usq1.cat.bilibili.com&type=tcp#🇯🇵|@V2raysCollector| AHS -132.18
