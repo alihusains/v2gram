@@ -1,58 +1,57 @@
-vmess://eyJhZGQiOiI1MS4xNTguMTUxLjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQwZTMwNmE2LTdjYWItNDBhYy1hMDg1LWE5NjE4OTVlYjExYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvYXJraSIsInBvcnQiOiIyMDEwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkB2cG5mYWlsX3YycmF5fCBBSFMgLVx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMXw4Ni4wMiJ9
-vmess://eyJhZGQiOiI0Ny4yNDUuNDIuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInBzIjoiQHZwbmZhaWxfdjJyYXl8IEFIUyAtXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1fDQxOC4xOSJ9
-vmess://eyJhZGQiOiJpZC1sYi52aGF4Lm5ldCIsImFpZCI6IjAiLCJob3N0Ijoiem9vbS51cyIsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9zc2hraXRcL0Fyc2hhbTg1MjMxXC82MzQ3ZDA4MDIyYjkxXC8iLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJAdjJyYXl2bWVzc3wgQUhTIC1cdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjh8Ni44OCJ9
-vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?encryption=none&fp=chrome&mode=gun&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&security=reality&serviceName=&sid=07a9a22b&sni=mega.io&spx=%2Fstorage&type=grpc#REALITY|@ProxyFn|🇨🇭|130.4
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&insecure=1&path=%2F&security=tls&sni=zh.hollowspot.ir&type=ws#@Outline_Vpn| AHS -🇸🇨|5.93
-vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&security=reality&sid=96&sni=google.com&type=tcp#REALITY|@Outline_Vpn|🇳🇱|95.31
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=%2F&security=none&type=ws#@prrofile_purple| AHS -🇺🇦|118.84
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?encryption=none&path=%2F&security=&type=ws#@azadi_az_inja_migzare| AHS -🇺🇸|5.84
-vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?flow=xtls-rprx-vision&fp=random&headerType=none&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&security=reality&sid=4c9dbb0cb1f36dab&sni=www.openoffice.org&type=tcp#REALITY|@internet4iran|🇩🇪|95.56
-vless://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?allowInsecure=0&alpn=http%2F1.1&encryption=none&fp=chrome&host=d1bezfxa40zhk8.cloudfront.net&insecure=0&path=%2F&security=tls&sni=d1bezfxa40zhk8.cloudfront.net&type=ws#@FalconPolV2rayNG| AHS -🇺🇸|199.04
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|32.63
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|53.59
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|12.05
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.204.100:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇫🇷|85.99
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.75:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇫🇷|84.24
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.11.33:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇩🇪|89.24
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?allowInsecure=1&alpn=h2&encryption=none&fp=firefox&insecure=1&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#@DarkVPNpro| AHS -🇩🇪|97.7
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@188.114.98.0:443?allowInsecure=0&encryption=none&fp=chrome&host=apexbhao1.qzz.io&insecure=0&path=%2F43.218.77.16%3D1443&security=tls&sni=apexbhao1.qzz.io&type=ws#@DarkVPNpro| AHS -🚩|6.04
-vless://telegram-id-ArV2ray@151.101.194.133:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Shuow10.net&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&sni=mio.splashthat.com&type=ws#@v2ray_swhil| AHS -🇺🇸|5.4
-vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&type=ws#@v2ray_swhil| AHS -🇺🇸|38.01
-vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.128:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws#@v2ray_swhil| AHS -🚩|6.31
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&host=hetzner-4.access.name.ng&path=%2F&security=tls&sni=hetzner-4.access.name.ng&type=ws#@vless_vmess| AHS -🚩|20.41
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?alpn=h2&encryption=none&host=statue.lnmarketplace.net&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#@vless_vmess| AHS -🇩🇪|95.94
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&fp=chrome&host=p1.thisiswe.uno&path=%2F&security=tls&sni=p1.thisiswe.uno&type=ws#@vmess_vless_v2rayng| AHS -🇸🇨|23.29
-vless://a3f952f1-142f-435f-9e82-e19581874fce@104.17.74.206:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=afranet.nitromobile.online&path=%2FJeiwoBjOYwhwoabA&security=tls&sni=afranet1.nitromobile.online&type=ws#@MehradLearn| AHS -🚩|5.83
-vless://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?encryption=none&security=tls&serviceName=static43498&sni=jenaei.movieland.top&type=grpc#@ovpn2| AHS -🚩|5.99
-vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&security=reality&sid=b7b70c104ad267b8&sni=chatgpt.com&type=tcp#REALITY|@vpn_tehran|🇫🇷|265.68
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?encryption=none&path=%2F&security=none&type=ws#@proxy_kafee| AHS -🇺🇸|5.71
-vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?fp=randomized&host=&mode=auto&path=%2FDota2%3Fed%3D2048&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&security=reality&sid=008c74&sni=hundleymechanical.com&spx=%2F&type=xhttp#REALITY|@V2rayngninja|🇩🇪|99.18
-vless://4e580a1a-3ff5-456d-a1d6-b1640bea4e9e@51.254.142.162:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=1&security=tls&type=tcp#@v2FreeHub| AHS -🇫🇷|87.2
-vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?encryption=none&fp=chrome&headerType=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&security=reality&sid=b77a294515ecc200&sni=yandex.ru&spx=%2F&type=tcp#REALITY|@v2FreeHub|🇩🇪|87.79
-vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?encryption=none&headerType=none&security=none&type=tcp#@v2rayngcloud| AHS -🇫🇮|118.76
-trojan://telegram-id-privatevpns@13.36.204.100:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -83.93
-trojan://telegram-id-privatevpns@15.237.89.75:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -84.53
-trojan://telegram-id-privatevpns@18.156.11.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -91.47
-trojan://telegram-id-directvpn@13.36.204.100:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -85.92
-trojan://telegram-id-directvpn@15.237.89.75:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -83.88
-trojan://telegram-id-directvpn@18.156.11.33:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -88.92
-trojan://humanity@104.17.131.88:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🚩|@oneclickvpnkeys| AHS -6.03
-trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#🚩|@oneclickvpnkeys| AHS -12.48
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?allowInsecure=1&path=%2F&type=ws#🚩|@oneclickvpnkeys| AHS -7.46
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -5.74
-trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -6.98
-trojan://humanity@104.18.32.47:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -6.3
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -6.03
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -5.94
-trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -6.26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#%40free4allVPN%7C+AHS+-%F0%9F%87%A9%F0%9F%87%AA%7C91.58
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@141.98.101.182:443#%40free4allVPN%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C87.76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%40free4allVPN%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C96.83
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z2hWUUk0bjlpMURWODI1b1dkd2JUZz09@23.95.113.104:8388#%40azadi_az_inja_migzare%7C+AHS+-%F0%9F%87%BA%F0%9F%87%B8%7C5.62
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09@142.171.65.106:8388#%40azadi_az_inja_migzare%7C+AHS+-%F0%9F%87%BA%F0%9F%87%B8%7C51.35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%40vmess_vless_v2rayng%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C96.1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40vmess_vless_v2rayng%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C100.19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%40OutlineVpnOfficial%7C+AHS+-%F0%9F%87%B7%F0%9F%87%B4%7C127.78
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%40OutlineVpnOfficial%7C+AHS+-%F0%9F%87%BA%F0%9F%87%A6%7C116.2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YW5HdG91ODZ2R0I3cjFsT201bjhn@162.19.208.118:50285#%40v2FreeHub%7C+AHS+-%F0%9F%87%AB%F0%9F%87%B7%7C90.56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%40v2FreeHub%7C+AHS+-%F0%9F%87%B7%F0%9F%87%BA%7C134.77
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQHZwbmZhaWxfdjJyYXl8IEFIUyAtXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2fDM5LjEyIn0=
+vmess://eyJhZGQiOiI0Ny4yNDUuNDIuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInBzIjoiQHZwbmZhaWxfdjJyYXl8IEFIUyAtXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1fDUyMy43NSJ9
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hcmtpP2VkPTIwNDgiLCJwb3J0IjozNjcwMywic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJwcyI6IkB2cG5mYWlsX3YycmF5fCBBSFMgLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMHwxNzYuNjcifQ==
+vmess://eyJhZGQiOiJpZC1sYi52aGF4Lm5ldCIsImFpZCI6IjAiLCJob3N0Ijoiem9vbS51cyIsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9zc2hraXRcL0Fyc2hhbTg1MjMxXC82MzQ3ZDA4MDIyYjkxXC8iLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJAdjJyYXl2bWVzc3wgQUhTIC1cdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjh8MTUuODMifQ==
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?encryption=none&fp=chrome&mode=gun&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&security=reality&serviceName=&sid=07a9a22b&sni=mega.io&spx=%2Fstorage&type=grpc#REALITY|@ProxyFn|🇨🇭|145.9
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&insecure=1&path=%2F&security=tls&sni=zh.hollowspot.ir&type=ws#@Outline_Vpn| AHS -🇸🇨|12.34
+vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&security=reality&sid=96&sni=google.com&type=tcp#REALITY|@Outline_Vpn|🇳🇱|111.25
+vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=%2F&security=none&type=ws#@prrofile_purple| AHS -🇺🇦|137.84
+vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?flow=xtls-rprx-vision&fp=random&headerType=none&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&security=reality&sid=4c9dbb0cb1f36dab&sni=www.openoffice.org&type=tcp#REALITY|@internet4iran|🇩🇪|122.99
+vless://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?allowInsecure=0&alpn=http%2F1.1&encryption=none&fp=chrome&host=d1bezfxa40zhk8.cloudfront.net&insecure=0&path=%2F&security=tls&sni=d1bezfxa40zhk8.cloudfront.net&type=ws#@FalconPolV2rayNG| AHS -🇺🇸|234.19
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|60.52
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|90.16
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#@hassan_saboorii| AHS -🇨🇾|46.76
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.204.100:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇫🇷|119.53
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.75:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇫🇷|119.78
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.11.33:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#@VlessConfig| AHS -🇩🇪|122.6
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?allowInsecure=1&alpn=h2&encryption=none&fp=firefox&insecure=1&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#@DarkVPNpro| AHS -🇩🇪|125.97
+vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@188.114.98.0:443?allowInsecure=0&encryption=none&fp=chrome&host=apexbhao1.qzz.io&insecure=0&path=%2F43.218.77.16%3D1443&security=tls&sni=apexbhao1.qzz.io&type=ws#@DarkVPNpro| AHS -🚩|15.11
+vless://telegram-id-ArV2ray@151.101.194.133:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Shuow10.net&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&sni=mio.splashthat.com&type=ws#@v2ray_swhil| AHS -🇺🇸|12.25
+vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&type=ws#@v2ray_swhil| AHS -🇺🇸|190.23
+vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.128:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws#@v2ray_swhil| AHS -🚩|14.26
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&host=hetzner-4.access.name.ng&path=%2F&security=tls&sni=hetzner-4.access.name.ng&type=ws#@vless_vmess| AHS -🚩|17.61
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?alpn=h2&encryption=none&host=statue.lnmarketplace.net&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#@vless_vmess| AHS -🇩🇪|126.88
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&fp=chrome&host=p1.thisiswe.uno&path=%2F&security=tls&sni=p1.thisiswe.uno&type=ws#@vmess_vless_v2rayng| AHS -🇸🇨|78.33
+vless://a3f952f1-142f-435f-9e82-e19581874fce@104.17.74.206:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=afranet.nitromobile.online&path=%2FJeiwoBjOYwhwoabA&security=tls&sni=afranet1.nitromobile.online&type=ws#@MehradLearn| AHS -🚩|14.41
+vless://fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?encryption=none&security=tls&serviceName=static43498&sni=jenaei.movieland.top&type=grpc#@ovpn2| AHS -🚩|15.33
+vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&security=reality&sid=b7b70c104ad267b8&sni=chatgpt.com&type=tcp#REALITY|@vpn_tehran|🇫🇷|135.04
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?encryption=none&path=%2F&security=none&type=ws#@proxy_kafee| AHS -🇺🇸|33.37
+vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?fp=randomized&host=&mode=auto&path=%2FDota2%3Fed%3D2048&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&security=reality&sid=008c74&sni=hundleymechanical.com&spx=%2F&type=xhttp#REALITY|@V2rayngninja|🇩🇪|120.53
+vless://4e580a1a-3ff5-456d-a1d6-b1640bea4e9e@51.254.142.162:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=1&security=tls&type=tcp#@v2FreeHub| AHS -🇫🇷|118.15
+vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?encryption=none&fp=chrome&headerType=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&security=reality&sid=b77a294515ecc200&sni=yandex.ru&spx=%2F&type=tcp#REALITY|@v2FreeHub|🇩🇪|202.2
+vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?encryption=none&headerType=none&security=none&type=tcp#@v2rayngcloud| AHS -🇫🇮|145.3
+trojan://telegram-id-privatevpns@13.36.204.100:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -116.76
+trojan://telegram-id-privatevpns@15.237.89.75:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -116.69
+trojan://telegram-id-privatevpns@18.156.11.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -121.85
+trojan://telegram-id-directvpn@13.36.204.100:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -113.9
+trojan://telegram-id-directvpn@15.237.89.75:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -119.58
+trojan://telegram-id-directvpn@18.156.11.33:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -124.71
+trojan://humanity@104.17.131.88:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🚩|@oneclickvpnkeys| AHS -14.32
+trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#🚩|@oneclickvpnkeys| AHS -18.99
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?allowInsecure=1&path=%2F&type=ws#🚩|@oneclickvpnkeys| AHS -13.48
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng| AHS -14.62
+trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -16.4
+trojan://humanity@104.18.32.47:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@vmess_vless_v2rayng| AHS -15.19
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -14.25
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran| AHS -14.32
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran| AHS -15.28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114#%40free4allVPN%7C+AHS+-%F0%9F%87%A9%F0%9F%87%AA%7C116.38
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@141.98.101.182:443#%40free4allVPN%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C109.73
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%40free4allVPN%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C129.53
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09@142.171.65.106:8388#%40azadi_az_inja_migzare%7C+AHS+-%F0%9F%87%BA%F0%9F%87%B8%7C37.44
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%40vmess_vless_v2rayng%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C122.36
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40vmess_vless_v2rayng%7C+AHS+-%F0%9F%87%AC%F0%9F%87%A7%7C108.63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%40OutlineVpnOfficial%7C+AHS+-%F0%9F%87%B7%F0%9F%87%B4%7C146.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%40OutlineVpnOfficial%7C+AHS+-%F0%9F%87%BA%F0%9F%87%A6%7C134.13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YW5HdG91ODZ2R0I3cjFsT201bjhn@162.19.208.118:50285#%40v2FreeHub%7C+AHS+-%F0%9F%87%AB%F0%9F%87%B7%7C125.95
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%40v2FreeHub%7C+AHS+-%F0%9F%87%B7%F0%9F%87%BA%7C147.62
