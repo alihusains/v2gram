@@ -1,14 +1,14 @@
-trojan://telegram-id-privatevpns@3.70.90.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -161.2
-trojan://telegram-id-privatevpns@35.181.90.22:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -161.13
-trojan://telegram-id-privatevpns@51.44.146.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -111.78
-trojan://telegram-id-directvpn@3.70.90.66:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -117.49
-trojan://telegram-id-directvpn@35.181.90.22:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -148.73
-trojan://telegram-id-directvpn@51.44.146.0:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -114.34
-trojan://ppmk@104.18.32.47:8443?alpn=http%2F1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#🚩|@oneclickvpnkeys| AHS -14.18
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#🇩🇪|@oneclickvpnkeys| AHS -152.1
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#🇵🇱|@oneclickvpnkeys| AHS -127.49
-trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@VmessProtocol| AHS -9.31
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -14.8
-trojan://KaQKzYh6dd@188.114.97.6:443?allowInsecure=1&fp=firefox&path=%2F%3Fed%3D2048&security=tls&sni=dd.aananas.ir.&type=ws#🚩|@v2ray_vpn_ir| AHS -14.16
-trojan://rXyShM8Jni 5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#🇺🇸|@V2raysCollector| AHS -14.59
-trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site&type=ws#🚩|@V2raysCollector| AHS -13.37
+trojan://telegram-id-privatevpns@3.70.90.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -101.45
+trojan://telegram-id-privatevpns@35.181.90.22:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -87.61
+trojan://telegram-id-privatevpns@51.44.146.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -106.41
+trojan://telegram-id-directvpn@3.70.90.66:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -137.56
+trojan://telegram-id-directvpn@35.181.90.22:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -137.52
+trojan://telegram-id-directvpn@51.44.146.0:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -84.69
+trojan://ppmk@104.18.32.47:8443?alpn=http%2F1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#🚩|@oneclickvpnkeys| AHS -6.15
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#🇩🇪|@oneclickvpnkeys| AHS -109.34
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#🇵🇱|@oneclickvpnkeys| AHS -105.96
+trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@VmessProtocol| AHS -6.31
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -6.8
+trojan://KaQKzYh6dd@188.114.97.6:443?allowInsecure=1&fp=firefox&path=%2F%3Fed%3D2048&security=tls&sni=dd.aananas.ir.&type=ws#🚩|@v2ray_vpn_ir| AHS -6.19
+trojan://rXyShM8Jni 5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#🇺🇸|@V2raysCollector| AHS -32.94
+trojan://mitivpn@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&path=https%3A%2F%2Fchatgpt.com&security=tls&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site&type=ws#🚩|@V2raysCollector| AHS -7.97
