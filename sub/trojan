@@ -1,8 +1,5 @@
-trojan://telegram-id-privatevpns@3.70.56.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs| AHS -155.25
-trojan://telegram-id-privatevpns@15.188.169.199:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs| AHS -142.28
-trojan://telegram-id-directvpn@3.70.56.34:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -151.21
-trojan://telegram-id-directvpn@15.188.169.199:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN| AHS -142.26
-trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys| AHS -2.37
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#🇩🇪|@oneclickvpnkeys| AHS -169.54
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click#🇩🇪|@oneclickvpnkeys| AHS -169.12
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -1.44
+trojan://telegram-id-directvpn@35.158.190.80:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN| AHS -89.67
+trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys| AHS -6.96
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#🇩🇪|@oneclickvpnkeys| AHS -110.47
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click#🇩🇪|@oneclickvpnkeys| AHS -107.93
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2| AHS -6.59
