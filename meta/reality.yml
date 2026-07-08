@@ -32,7 +32,7 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: REALITY|@Outline_Vpn|🇫🇷|304.83
+  - name: REALITY|@Outline_Vpn|🇫🇷|439.32
     server: all105.allenshop66245.ir
     port: 443
     type: vless
@@ -42,7 +42,7 @@ proxies:
     skip-cert-verify: true
     servername: play.google.com
     udp: true
-  - name: REALITY|@prrofile_purple|🇸🇨|169.09
+  - name: REALITY|@prrofile_purple|🇸🇨|165.17
     server: 45.198.87.99
     port: 8443
     type: vless
@@ -53,7 +53,7 @@ proxies:
     skip-cert-verify: true
     servername: storage.yandex.net
     udp: true
-  - name: REALITY|@internet4iran|🇩🇪|156.02
+  - name: REALITY|@internet4iran|🇩🇪|150.1
     server: 88.99.121.221
     port: 443
     type: vless
@@ -64,7 +64,7 @@ proxies:
     skip-cert-verify: true
     servername: www.openoffice.org
     udp: true
-  - name: REALITY|@VmessProtocol|🇩🇪|150.46
+  - name: REALITY|@VmessProtocol|🇩🇪|151.43
     server: 84.32.223.22
     port: 443
     type: vless
@@ -75,7 +75,7 @@ proxies:
     skip-cert-verify: true
     servername: cherry-de1.t1n2.com
     udp: true
-  - name: REALITY|@proxy_kafee|🇵🇱|157.61
+  - name: REALITY|@proxy_kafee|🇵🇱|155.96
     server: 83.168.71.216
     port: 443
     type: vless
@@ -85,7 +85,7 @@ proxies:
     skip-cert-verify: true
     servername: ads.x5.ru
     udp: true
-  - name: REALITY|@proxystore11|🇩🇪|152.77
+  - name: REALITY|@proxystore11|🇩🇪|158.83
     server: 142.93.174.176
     port: 443
     type: vless
@@ -98,11 +98,11 @@ proxies:
     grpc-opts:
       grpc-service-name: 104.17.18.224
     udp: true
-  - name: REALITY|@v2rayngrit|🇩🇪|437.77
-    server: de2-unlimited.pavilof.ir
+  - name: REALITY|@v2rayngrit|🇩🇪|522.62
+    server: DE2-UNlimiTed.pavilof.ir
     port: 1020
     type: vless
-    uuid: af0ed84b-b07f-4b6f-8ca7-59560f2bc8fc
+    uuid: 01aacd3b-fdda-4e3f-894b-bc380f184fe1
     cipher: auto
     tls: false
     flow: xtls-rprx-vision
@@ -113,13 +113,13 @@ proxy-groups:
   - name: MANUAL
     type: select
     proxies:
-      - REALITY|@Outline_Vpn|🇫🇷|304.83
-      - REALITY|@prrofile_purple|🇸🇨|169.09
-      - REALITY|@internet4iran|🇩🇪|156.02
-      - REALITY|@VmessProtocol|🇩🇪|150.46
-      - REALITY|@proxy_kafee|🇵🇱|157.61
-      - REALITY|@proxystore11|🇩🇪|152.77
-      - REALITY|@v2rayngrit|🇩🇪|437.77
+      - REALITY|@Outline_Vpn|🇫🇷|439.32
+      - REALITY|@prrofile_purple|🇸🇨|165.17
+      - REALITY|@internet4iran|🇩🇪|150.1
+      - REALITY|@VmessProtocol|🇩🇪|151.43
+      - REALITY|@proxy_kafee|🇵🇱|155.96
+      - REALITY|@proxystore11|🇩🇪|158.83
+      - REALITY|@v2rayngrit|🇩🇪|522.62
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -130,37 +130,37 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇫🇷|304.83
-      - REALITY|@prrofile_purple|🇸🇨|169.09
-      - REALITY|@internet4iran|🇩🇪|156.02
-      - REALITY|@VmessProtocol|🇩🇪|150.46
-      - REALITY|@proxy_kafee|🇵🇱|157.61
-      - REALITY|@proxystore11|🇩🇪|152.77
-      - REALITY|@v2rayngrit|🇩🇪|437.77
+      - REALITY|@Outline_Vpn|🇫🇷|439.32
+      - REALITY|@prrofile_purple|🇸🇨|165.17
+      - REALITY|@internet4iran|🇩🇪|150.1
+      - REALITY|@VmessProtocol|🇩🇪|151.43
+      - REALITY|@proxy_kafee|🇵🇱|155.96
+      - REALITY|@proxystore11|🇩🇪|158.83
+      - REALITY|@v2rayngrit|🇩🇪|522.62
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - REALITY|@Outline_Vpn|🇫🇷|304.83
-      - REALITY|@prrofile_purple|🇸🇨|169.09
-      - REALITY|@internet4iran|🇩🇪|156.02
-      - REALITY|@VmessProtocol|🇩🇪|150.46
-      - REALITY|@proxy_kafee|🇵🇱|157.61
-      - REALITY|@proxystore11|🇩🇪|152.77
-      - REALITY|@v2rayngrit|🇩🇪|437.77
+      - REALITY|@Outline_Vpn|🇫🇷|439.32
+      - REALITY|@prrofile_purple|🇸🇨|165.17
+      - REALITY|@internet4iran|🇩🇪|150.1
+      - REALITY|@VmessProtocol|🇩🇪|151.43
+      - REALITY|@proxy_kafee|🇵🇱|155.96
+      - REALITY|@proxystore11|🇩🇪|158.83
+      - REALITY|@v2rayngrit|🇩🇪|522.62
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇫🇷|304.83
-      - REALITY|@prrofile_purple|🇸🇨|169.09
-      - REALITY|@internet4iran|🇩🇪|156.02
-      - REALITY|@VmessProtocol|🇩🇪|150.46
-      - REALITY|@proxy_kafee|🇵🇱|157.61
-      - REALITY|@proxystore11|🇩🇪|152.77
-      - REALITY|@v2rayngrit|🇩🇪|437.77
+      - REALITY|@Outline_Vpn|🇫🇷|439.32
+      - REALITY|@prrofile_purple|🇸🇨|165.17
+      - REALITY|@internet4iran|🇩🇪|150.1
+      - REALITY|@VmessProtocol|🇩🇪|151.43
+      - REALITY|@proxy_kafee|🇵🇱|155.96
+      - REALITY|@proxystore11|🇩🇪|158.83
+      - REALITY|@v2rayngrit|🇩🇪|522.62
 rules:
   - MATCH,MANUAL
