@@ -32,7 +32,7 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: REALITY|@Outline_Vpn|🇷🇺|83.06
+  - name: REALITY|@Outline_Vpn|🇷🇺|143.14
     server: 45.131.212.22
     port: 443
     type: vless
@@ -43,7 +43,7 @@ proxies:
     skip-cert-verify: true
     servername: sellflow.org
     udp: true
-  - name: REALITY|@prrofile_purple|🇷🇺|496.92
+  - name: REALITY|@prrofile_purple|🇷🇺|622.04
     server: qq.utiltools.ru
     port: 443
     type: vless
@@ -54,7 +54,7 @@ proxies:
     skip-cert-verify: true
     servername: qq.utiltools.ru
     udp: true
-  - name: REALITY|@internet4iran|🇩🇪|97.5
+  - name: REALITY|@internet4iran|🇩🇪|150.08
     server: 88.99.121.221
     port: 443
     type: vless
@@ -65,7 +65,7 @@ proxies:
     skip-cert-verify: true
     servername: www.openoffice.org
     udp: true
-  - name: REALITY|@v2rayNG_Matsuri|🇩🇪|90.8
+  - name: REALITY|@v2rayNG_Matsuri|🇩🇪|167.28
     server: 165.245.255.43
     port: 43376
     type: vless
@@ -75,7 +75,7 @@ proxies:
     skip-cert-verify: true
     servername: www.m.amazon.com
     udp: true
-  - name: REALITY|@v2ray1_ng|🇸🇨|122.98
+  - name: REALITY|@v2ray1_ng|🇸🇨|180.72
     server: 45.196.201.129
     port: 443
     type: vless
@@ -86,7 +86,7 @@ proxies:
     skip-cert-verify: true
     servername: storage.yandex.net
     udp: true
-  - name: REALITY|@VmessProtocol|🇩🇪|94.79
+  - name: REALITY|@VmessProtocol|🇩🇪|154.89
     server: 159.195.46.178
     port: 443
     type: vless
@@ -97,7 +97,7 @@ proxies:
     skip-cert-verify: true
     servername: 4.oncloudnineservicestreang.com
     udp: true
-  - name: REALITY|@lrnbymaa|🇩🇪|95.94
+  - name: REALITY|@lrnbymaa|🇩🇪|152.91
     server: de.edge-9d7c.com
     port: 443
     type: vless
@@ -108,28 +108,29 @@ proxies:
     skip-cert-verify: true
     servername: de.edge-9d7c.com
     udp: true
-  - name: REALITY|@proxy_kafee|🇱🇻|111.84
-    server: 31.56.196.199
+  - name: REALITY|@ConfigsHUB|🇸🇨|180.87
+    server: 45.196.201.163
     port: 443
     type: vless
-    uuid: 1306f56b-b1bf-4a65-937a-83815b5e4210
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: www.lg.com
-    udp: true
-  - name: REALITY|@vpnsal|🇳🇱|84.05
-    server: 72.56.81.165
-    port: 40443
-    type: vless
-    uuid: 4bf5a71c-d726-4585-b095-7396675706d5
+    uuid: f75814f6-8f81-4847-b792-168c41f2dc85
     cipher: auto
     tls: false
     flow: xtls-rprx-vision
     skip-cert-verify: true
-    servername: deepl.com
+    servername: storage.yandex.net
     udp: true
-  - name: REALITY|@v2rayngrit|🇫🇮|108.52
+  - name: REALITY|@vpnsal|🇸🇨|180.57
+    server: 45.196.201.51
+    port: 443
+    type: vless
+    uuid: f75814f6-8f81-4847-b792-168c41f2dc85
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: storage.yandex.net
+    udp: true
+  - name: REALITY|@v2rayngrit|🇫🇮|171.07
     server: 138.124.112.196
     port: 443
     type: vless
@@ -144,16 +145,16 @@ proxy-groups:
   - name: MANUAL
     type: select
     proxies:
-      - REALITY|@Outline_Vpn|🇷🇺|83.06
-      - REALITY|@prrofile_purple|🇷🇺|496.92
-      - REALITY|@internet4iran|🇩🇪|97.5
-      - REALITY|@v2rayNG_Matsuri|🇩🇪|90.8
-      - REALITY|@v2ray1_ng|🇸🇨|122.98
-      - REALITY|@VmessProtocol|🇩🇪|94.79
-      - REALITY|@lrnbymaa|🇩🇪|95.94
-      - REALITY|@proxy_kafee|🇱🇻|111.84
-      - REALITY|@vpnsal|🇳🇱|84.05
-      - REALITY|@v2rayngrit|🇫🇮|108.52
+      - REALITY|@Outline_Vpn|🇷🇺|143.14
+      - REALITY|@prrofile_purple|🇷🇺|622.04
+      - REALITY|@internet4iran|🇩🇪|150.08
+      - REALITY|@v2rayNG_Matsuri|🇩🇪|167.28
+      - REALITY|@v2ray1_ng|🇸🇨|180.72
+      - REALITY|@VmessProtocol|🇩🇪|154.89
+      - REALITY|@lrnbymaa|🇩🇪|152.91
+      - REALITY|@ConfigsHUB|🇸🇨|180.87
+      - REALITY|@vpnsal|🇸🇨|180.57
+      - REALITY|@v2rayngrit|🇫🇮|171.07
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -164,46 +165,46 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇷🇺|83.06
-      - REALITY|@prrofile_purple|🇷🇺|496.92
-      - REALITY|@internet4iran|🇩🇪|97.5
-      - REALITY|@v2rayNG_Matsuri|🇩🇪|90.8
-      - REALITY|@v2ray1_ng|🇸🇨|122.98
-      - REALITY|@VmessProtocol|🇩🇪|94.79
-      - REALITY|@lrnbymaa|🇩🇪|95.94
-      - REALITY|@proxy_kafee|🇱🇻|111.84
-      - REALITY|@vpnsal|🇳🇱|84.05
-      - REALITY|@v2rayngrit|🇫🇮|108.52
+      - REALITY|@Outline_Vpn|🇷🇺|143.14
+      - REALITY|@prrofile_purple|🇷🇺|622.04
+      - REALITY|@internet4iran|🇩🇪|150.08
+      - REALITY|@v2rayNG_Matsuri|🇩🇪|167.28
+      - REALITY|@v2ray1_ng|🇸🇨|180.72
+      - REALITY|@VmessProtocol|🇩🇪|154.89
+      - REALITY|@lrnbymaa|🇩🇪|152.91
+      - REALITY|@ConfigsHUB|🇸🇨|180.87
+      - REALITY|@vpnsal|🇸🇨|180.57
+      - REALITY|@v2rayngrit|🇫🇮|171.07
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - REALITY|@Outline_Vpn|🇷🇺|83.06
-      - REALITY|@prrofile_purple|🇷🇺|496.92
-      - REALITY|@internet4iran|🇩🇪|97.5
-      - REALITY|@v2rayNG_Matsuri|🇩🇪|90.8
-      - REALITY|@v2ray1_ng|🇸🇨|122.98
-      - REALITY|@VmessProtocol|🇩🇪|94.79
-      - REALITY|@lrnbymaa|🇩🇪|95.94
-      - REALITY|@proxy_kafee|🇱🇻|111.84
-      - REALITY|@vpnsal|🇳🇱|84.05
-      - REALITY|@v2rayngrit|🇫🇮|108.52
+      - REALITY|@Outline_Vpn|🇷🇺|143.14
+      - REALITY|@prrofile_purple|🇷🇺|622.04
+      - REALITY|@internet4iran|🇩🇪|150.08
+      - REALITY|@v2rayNG_Matsuri|🇩🇪|167.28
+      - REALITY|@v2ray1_ng|🇸🇨|180.72
+      - REALITY|@VmessProtocol|🇩🇪|154.89
+      - REALITY|@lrnbymaa|🇩🇪|152.91
+      - REALITY|@ConfigsHUB|🇸🇨|180.87
+      - REALITY|@vpnsal|🇸🇨|180.57
+      - REALITY|@v2rayngrit|🇫🇮|171.07
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇷🇺|83.06
-      - REALITY|@prrofile_purple|🇷🇺|496.92
-      - REALITY|@internet4iran|🇩🇪|97.5
-      - REALITY|@v2rayNG_Matsuri|🇩🇪|90.8
-      - REALITY|@v2ray1_ng|🇸🇨|122.98
-      - REALITY|@VmessProtocol|🇩🇪|94.79
-      - REALITY|@lrnbymaa|🇩🇪|95.94
-      - REALITY|@proxy_kafee|🇱🇻|111.84
-      - REALITY|@vpnsal|🇳🇱|84.05
-      - REALITY|@v2rayngrit|🇫🇮|108.52
+      - REALITY|@Outline_Vpn|🇷🇺|143.14
+      - REALITY|@prrofile_purple|🇷🇺|622.04
+      - REALITY|@internet4iran|🇩🇪|150.08
+      - REALITY|@v2rayNG_Matsuri|🇩🇪|167.28
+      - REALITY|@v2ray1_ng|🇸🇨|180.72
+      - REALITY|@VmessProtocol|🇩🇪|154.89
+      - REALITY|@lrnbymaa|🇩🇪|152.91
+      - REALITY|@ConfigsHUB|🇸🇨|180.87
+      - REALITY|@vpnsal|🇸🇨|180.57
+      - REALITY|@v2rayngrit|🇫🇮|171.07
 rules:
   - MATCH,MANUAL
