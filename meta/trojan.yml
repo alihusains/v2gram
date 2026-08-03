@@ -32,7 +32,20 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: "|@oneclickvpnkeys| AHS -5.58"
+  - name: "|@oneclickvpnkeys| AHS -2.89"
+    server: millionaire.levikogjgfdd.ir
+    port: 443
+    type: trojan
+    password: 521314
+    skip-cert-verify: true
+    sni: tjplay.lxdxo.kdns.fr
+    network: ws
+    ws-opts:
+      path: /Leviko_v2ray
+      headers:
+        Host: tjplay.lxdxo.kdns.fr
+    udp: true
+  - name: "|@oneclickvpnkeys| AHS -3.39"
     server: 167.68.4.199
     port: 2053
     type: trojan
@@ -45,7 +58,18 @@ proxies:
       headers:
         Host: epge.muarua.filegear-sg.me
     udp: true
-  - name: "|@oneclickvpnkeys| AHS -8.38"
+  - name: "|@oneclickvpnkeys| AHS -274.85"
+    server: 2----------------------------------------------------3.poki-pakipon.ir
+    port: 62181
+    type: trojan
+    password: oeaQHjIg021hag3UB1gHR60iA1iaNSs2
+    skip-cert-verify: true
+    sni: www.icloud.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----
+    udp: true
+  - name: "|@v2ray1_ng| AHS -175.33"
     server: millionaire.levikogjgfdd.ir
     port: 443
     type: trojan
@@ -58,20 +82,20 @@ proxies:
       headers:
         Host: tjplay.lxdxo.kdns.fr
     udp: true
-  - name: "|@v2ray1_ng| AHS -14.61"
-    server: millionaire.levikogjgfdd.ir
+  - name: "|@v2ray1_ng| AHS -2.56"
+    server: 172.67.149.60
     port: 443
     type: trojan
-    password: 521314
+    password: humanity
     skip-cert-verify: true
-    sni: tjplay.lxdxo.kdns.fr
+    sni: www.ignitelimit.com
     network: ws
     ws-opts:
-      path: /Leviko_v2ray
+      path: /assignment
       headers:
-        Host: tjplay.lxdxo.kdns.fr
+        Host: www.ignitelimit.com
     udp: true
-  - name: "|@VmessProtocol| AHS -4.91"
+  - name: "|@VmessProtocol| AHS -3.25"
     server: 104.18.152.246
     port: 443
     type: trojan
@@ -84,7 +108,7 @@ proxies:
       headers:
         Host: www.calmloud.com
     udp: true
-  - name: "|@VmessProtocol| AHS -5.37"
+  - name: "|@VmessProtocol| AHS -1.84"
     server: 104.16.174.121
     port: 443
     type: trojan
@@ -97,7 +121,7 @@ proxies:
       headers:
         Host: www.ignitelimit.com
     udp: true
-  - name: "|@ovpn2| AHS -5.39"
+  - name: "|@ovpn2| AHS -2.82"
     server: 162.159.138.232
     port: 443
     type: trojan
@@ -110,7 +134,7 @@ proxies:
       headers:
         Host: fadaei.movieland.top
     udp: true
-  - name: "|@vpn_tehran| AHS -4.87"
+  - name: "|@vpn_tehran| AHS -2.3"
     server: 104.18.32.47
     port: 443
     type: trojan
@@ -123,7 +147,7 @@ proxies:
       headers:
         Host: www.calmlunch.com
     udp: true
-  - name: "|@v2ray_vpn_ir| AHS -6.07"
+  - name: "|@v2ray_vpn_ir| AHS -3.62"
     server: www.ignitelimit.com
     port: 443
     type: trojan
@@ -136,7 +160,7 @@ proxies:
       headers:
         Host: www.ignitelimit.com
     udp: true
-  - name: "|@v2ray_vpn_ir| AHS -7.39"
+  - name: "|@v2ray_vpn_ir| AHS -2.19"
     server: 104.18.1.1
     port: 443
     type: trojan
@@ -149,20 +173,7 @@ proxies:
       headers:
         Host: space.byu.id.yxls.eu.cc
     udp: true
-  - name: "|@hope_net| AHS -22.88"
-    server: www.visa.com.sg
-    port: 8443
-    type: trojan
-    password: Watashi_VPN
-    skip-cert-verify: true
-    sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
-    udp: true
-  - name: "|@v2rayngrit| AHS -9.68"
+  - name: "|@v2rayngrit| AHS -2.72"
     server: 172.67.149.60
     port: 443
     type: trojan
@@ -175,7 +186,7 @@ proxies:
       headers:
         Host: www.gossipglove.com
     udp: true
-  - name: "|@v2rayngrit| AHS -5.12"
+  - name: "|@v2rayngrit| AHS -2.45"
     server: 104.18.16.56
     port: 443
     type: trojan
@@ -183,7 +194,7 @@ proxies:
     skip-cert-verify: true
     sni: ww.gameserver.de5.net
     udp: true
-  - name: "|@v2rayngrit| AHS -19.16"
+  - name: "|@v2rayngrit| AHS -176.53"
     server: millionaire.levikogjgfdd.ir
     port: 443
     type: trojan
@@ -200,19 +211,20 @@ proxy-groups:
   - name: MANUAL
     type: select
     proxies:
-      - "|@oneclickvpnkeys| AHS -5.58"
-      - "|@oneclickvpnkeys| AHS -8.38"
-      - "|@v2ray1_ng| AHS -14.61"
-      - "|@VmessProtocol| AHS -4.91"
-      - "|@VmessProtocol| AHS -5.37"
-      - "|@ovpn2| AHS -5.39"
-      - "|@vpn_tehran| AHS -4.87"
-      - "|@v2ray_vpn_ir| AHS -6.07"
-      - "|@v2ray_vpn_ir| AHS -7.39"
-      - "|@hope_net| AHS -22.88"
-      - "|@v2rayngrit| AHS -9.68"
-      - "|@v2rayngrit| AHS -5.12"
-      - "|@v2rayngrit| AHS -19.16"
+      - "|@oneclickvpnkeys| AHS -2.89"
+      - "|@oneclickvpnkeys| AHS -3.39"
+      - "|@oneclickvpnkeys| AHS -274.85"
+      - "|@v2ray1_ng| AHS -175.33"
+      - "|@v2ray1_ng| AHS -2.56"
+      - "|@VmessProtocol| AHS -3.25"
+      - "|@VmessProtocol| AHS -1.84"
+      - "|@ovpn2| AHS -2.82"
+      - "|@vpn_tehran| AHS -2.3"
+      - "|@v2ray_vpn_ir| AHS -3.62"
+      - "|@v2ray_vpn_ir| AHS -2.19"
+      - "|@v2rayngrit| AHS -2.72"
+      - "|@v2rayngrit| AHS -2.45"
+      - "|@v2rayngrit| AHS -176.53"
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -223,55 +235,58 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - "|@oneclickvpnkeys| AHS -5.58"
-      - "|@oneclickvpnkeys| AHS -8.38"
-      - "|@v2ray1_ng| AHS -14.61"
-      - "|@VmessProtocol| AHS -4.91"
-      - "|@VmessProtocol| AHS -5.37"
-      - "|@ovpn2| AHS -5.39"
-      - "|@vpn_tehran| AHS -4.87"
-      - "|@v2ray_vpn_ir| AHS -6.07"
-      - "|@v2ray_vpn_ir| AHS -7.39"
-      - "|@hope_net| AHS -22.88"
-      - "|@v2rayngrit| AHS -9.68"
-      - "|@v2rayngrit| AHS -5.12"
-      - "|@v2rayngrit| AHS -19.16"
+      - "|@oneclickvpnkeys| AHS -2.89"
+      - "|@oneclickvpnkeys| AHS -3.39"
+      - "|@oneclickvpnkeys| AHS -274.85"
+      - "|@v2ray1_ng| AHS -175.33"
+      - "|@v2ray1_ng| AHS -2.56"
+      - "|@VmessProtocol| AHS -3.25"
+      - "|@VmessProtocol| AHS -1.84"
+      - "|@ovpn2| AHS -2.82"
+      - "|@vpn_tehran| AHS -2.3"
+      - "|@v2ray_vpn_ir| AHS -3.62"
+      - "|@v2ray_vpn_ir| AHS -2.19"
+      - "|@v2rayngrit| AHS -2.72"
+      - "|@v2rayngrit| AHS -2.45"
+      - "|@v2rayngrit| AHS -176.53"
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - "|@oneclickvpnkeys| AHS -5.58"
-      - "|@oneclickvpnkeys| AHS -8.38"
-      - "|@v2ray1_ng| AHS -14.61"
-      - "|@VmessProtocol| AHS -4.91"
-      - "|@VmessProtocol| AHS -5.37"
-      - "|@ovpn2| AHS -5.39"
-      - "|@vpn_tehran| AHS -4.87"
-      - "|@v2ray_vpn_ir| AHS -6.07"
-      - "|@v2ray_vpn_ir| AHS -7.39"
-      - "|@hope_net| AHS -22.88"
-      - "|@v2rayngrit| AHS -9.68"
-      - "|@v2rayngrit| AHS -5.12"
-      - "|@v2rayngrit| AHS -19.16"
+      - "|@oneclickvpnkeys| AHS -2.89"
+      - "|@oneclickvpnkeys| AHS -3.39"
+      - "|@oneclickvpnkeys| AHS -274.85"
+      - "|@v2ray1_ng| AHS -175.33"
+      - "|@v2ray1_ng| AHS -2.56"
+      - "|@VmessProtocol| AHS -3.25"
+      - "|@VmessProtocol| AHS -1.84"
+      - "|@ovpn2| AHS -2.82"
+      - "|@vpn_tehran| AHS -2.3"
+      - "|@v2ray_vpn_ir| AHS -3.62"
+      - "|@v2ray_vpn_ir| AHS -2.19"
+      - "|@v2rayngrit| AHS -2.72"
+      - "|@v2rayngrit| AHS -2.45"
+      - "|@v2rayngrit| AHS -176.53"
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - "|@oneclickvpnkeys| AHS -5.58"
-      - "|@oneclickvpnkeys| AHS -8.38"
-      - "|@v2ray1_ng| AHS -14.61"
-      - "|@VmessProtocol| AHS -4.91"
-      - "|@VmessProtocol| AHS -5.37"
-      - "|@ovpn2| AHS -5.39"
-      - "|@vpn_tehran| AHS -4.87"
-      - "|@v2ray_vpn_ir| AHS -6.07"
-      - "|@v2ray_vpn_ir| AHS -7.39"
-      - "|@hope_net| AHS -22.88"
-      - "|@v2rayngrit| AHS -9.68"
-      - "|@v2rayngrit| AHS -5.12"
-      - "|@v2rayngrit| AHS -19.16"
+      - "|@oneclickvpnkeys| AHS -2.89"
+      - "|@oneclickvpnkeys| AHS -3.39"
+      - "|@oneclickvpnkeys| AHS -274.85"
+      - "|@v2ray1_ng| AHS -175.33"
+      - "|@v2ray1_ng| AHS -2.56"
+      - "|@VmessProtocol| AHS -3.25"
+      - "|@VmessProtocol| AHS -1.84"
+      - "|@ovpn2| AHS -2.82"
+      - "|@vpn_tehran| AHS -2.3"
+      - "|@v2ray_vpn_ir| AHS -3.62"
+      - "|@v2ray_vpn_ir| AHS -2.19"
+      - "|@v2rayngrit| AHS -2.72"
+      - "|@v2rayngrit| AHS -2.45"
+      - "|@v2rayngrit| AHS -176.53"
 rules:
   - MATCH,MANUAL
