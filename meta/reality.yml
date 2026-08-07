@@ -32,18 +32,27 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: REALITY|@Outline_Vpn|🇳🇱|204.88
-    server: 89.124.124.221
-    port: 443
+  - name: REALITY|@Outline_Vpn|🇩🇪|375.05
+    server: v-de-node-03.bot-auth.com
+    port: 8443
     type: vless
-    uuid: a5ea9247-79f3-4655-aece-3fb51e1e669e
+    uuid: b9b1e7c9-4160-49b4-85a4-2f096706509a
     cipher: auto
     tls: false
-    flow: xtls-rprx-vision
     skip-cert-verify: true
-    servername: 19.07.yunus.guru
+    servername: www.oracle.com
     udp: true
-  - name: REALITY|@internet4iran|🇩🇪|92.51
+  - name: REALITY|@prrofile_purple|🇵🇱|156.14
+    server: 83.168.71.216
+    port: 443
+    type: vless
+    uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ads.x5.ru
+    udp: true
+  - name: REALITY|@internet4iran|🇩🇪|149.02
     server: 88.99.121.221
     port: 443
     type: vless
@@ -54,7 +63,7 @@ proxies:
     skip-cert-verify: true
     servername: www.openoffice.org
     udp: true
-  - name: REALITY|@vpn_tehran|🇷🇺|249.19
+  - name: REALITY|@vpn_tehran|🇷🇺|384.31
     server: qq.utiltools.ru
     port: 443
     type: vless
@@ -65,18 +74,7 @@ proxies:
     skip-cert-verify: true
     servername: qq.utiltools.ru
     udp: true
-  - name: REALITY|@proxy_kafee|🇳🇱|89.61
-    server: 152.70.58.201
-    port: 443
-    type: vless
-    uuid: 8892e34a-339b-4526-b88d-cf68c516231c
-    cipher: auto
-    tls: false
-    flow: xtls-rprx-vision
-    skip-cert-verify: true
-    servername: www.nvidia.com
-    udp: true
-  - name: REALITY|@v2rayngrit|🇬🇧|120.95
+  - name: REALITY|@v2rayngrit|🇬🇧|177.97
     server: 107.181.147.22
     port: 443
     type: vless
@@ -91,11 +89,11 @@ proxy-groups:
   - name: MANUAL
     type: select
     proxies:
-      - REALITY|@Outline_Vpn|🇳🇱|204.88
-      - REALITY|@internet4iran|🇩🇪|92.51
-      - REALITY|@vpn_tehran|🇷🇺|249.19
-      - REALITY|@proxy_kafee|🇳🇱|89.61
-      - REALITY|@v2rayngrit|🇬🇧|120.95
+      - REALITY|@Outline_Vpn|🇩🇪|375.05
+      - REALITY|@prrofile_purple|🇵🇱|156.14
+      - REALITY|@internet4iran|🇩🇪|149.02
+      - REALITY|@vpn_tehran|🇷🇺|384.31
+      - REALITY|@v2rayngrit|🇬🇧|177.97
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -106,31 +104,31 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇳🇱|204.88
-      - REALITY|@internet4iran|🇩🇪|92.51
-      - REALITY|@vpn_tehran|🇷🇺|249.19
-      - REALITY|@proxy_kafee|🇳🇱|89.61
-      - REALITY|@v2rayngrit|🇬🇧|120.95
+      - REALITY|@Outline_Vpn|🇩🇪|375.05
+      - REALITY|@prrofile_purple|🇵🇱|156.14
+      - REALITY|@internet4iran|🇩🇪|149.02
+      - REALITY|@vpn_tehran|🇷🇺|384.31
+      - REALITY|@v2rayngrit|🇬🇧|177.97
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - REALITY|@Outline_Vpn|🇳🇱|204.88
-      - REALITY|@internet4iran|🇩🇪|92.51
-      - REALITY|@vpn_tehran|🇷🇺|249.19
-      - REALITY|@proxy_kafee|🇳🇱|89.61
-      - REALITY|@v2rayngrit|🇬🇧|120.95
+      - REALITY|@Outline_Vpn|🇩🇪|375.05
+      - REALITY|@prrofile_purple|🇵🇱|156.14
+      - REALITY|@internet4iran|🇩🇪|149.02
+      - REALITY|@vpn_tehran|🇷🇺|384.31
+      - REALITY|@v2rayngrit|🇬🇧|177.97
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - REALITY|@Outline_Vpn|🇳🇱|204.88
-      - REALITY|@internet4iran|🇩🇪|92.51
-      - REALITY|@vpn_tehran|🇷🇺|249.19
-      - REALITY|@proxy_kafee|🇳🇱|89.61
-      - REALITY|@v2rayngrit|🇬🇧|120.95
+      - REALITY|@Outline_Vpn|🇩🇪|375.05
+      - REALITY|@prrofile_purple|🇵🇱|156.14
+      - REALITY|@internet4iran|🇩🇪|149.02
+      - REALITY|@vpn_tehran|🇷🇺|384.31
+      - REALITY|@v2rayngrit|🇬🇧|177.97
 rules:
   - MATCH,MANUAL
