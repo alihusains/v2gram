@@ -6,8 +6,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/libersurf.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/a4fe6617-2720-497f-a3e8-4ef4a7e85624@78.46.156.89:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&amp;security=tls&amp;sni=aparatsport.ir&amp;fp=chrome&amp;alpn=h2&amp;insecure=0&amp;allowInsecure=0&amp;pcs=516F8636A1233272AA0F281A81F492F882354213BA4C212D80C5BBBF19041D32&amp;type=ws&amp;host=Liber1.b-cdn.net&amp;path=\/#@libersurf| AHS -\ud83c\udde9\ud83c\uddea|132.41",
-        "time": "2026-09-26 18:24:05"
+        "config": "vless:\/\/a4fe6617-2720-497f-a3e8-4ef4a7e85624@78.46.156.89:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&amp;security=tls&amp;sni=aparatsport.ir&amp;fp=chrome&amp;alpn=h2&amp;insecure=0&amp;allowInsecure=0&amp;pcs=516F8636A1233272AA0F281A81F492F882354213BA4C212D80C5BBBF19041D32&amp;type=ws&amp;host=Liber1.b-cdn.net&amp;path=\/#@libersurf| AHS -\ud83c\udde9\ud83c\uddea|135.8",
+        "time": "2026-09-26 21:47:52"
     },
     {
         "channel": {
@@ -16,8 +16,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2FreeHub.jpg"
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:8388#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|124.84",
-        "time": "2026-09-26 18:23:40"
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:1443#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|130.34",
+        "time": "2026-09-26 21:47:26"
     },
     {
         "channel": {
@@ -26,8 +26,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2FreeHub.jpg"
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:8139#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|124.58",
-        "time": "2026-09-26 18:23:40"
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:8388#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|130.39",
+        "time": "2026-09-26 21:47:26"
     },
     {
         "channel": {
@@ -36,8 +36,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2FreeHub.jpg"
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:1443#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|121.43",
-        "time": "2026-09-26 18:23:40"
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ppWg==@130.49.176.26:8139#@v2FreeHub| AHS -\ud83c\uddf7\ud83c\uddfa|130.23",
+        "time": "2026-09-26 21:47:26"
     },
     {
         "channel": {
@@ -46,8 +46,28 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJAZnJlZTFfdnBufCBBSFMgLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYXwxMzUuNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-        "time": "2026-09-26 18:23:31"
+        "config": "vmess:\/\/eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJAZnJlZTFfdnBufCBBSFMgLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYXw0NzUuNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=",
+        "time": "2026-09-26 21:47:17"
+    },
+    {
+        "channel": {
+            "username": "free1_vpn",
+            "title": "Free_VPN \u221a v2ray \u221a NapsternetV \u221a custom \u221a injector \u221a",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/XlnTeam-36@199.232.78.160:443?path=\/&amp;security=tls&amp;alpn=http\/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@free1_vpn| AHS -\ud83c\uddfa\ud83c\uddf8|3.6",
+        "time": "2026-09-26 21:47:13"
+    },
+    {
+        "channel": {
+            "username": "free1_vpn",
+            "title": "Free_VPN \u221a v2ray \u221a NapsternetV \u221a custom \u221a injector \u221a",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=\/&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@free1_vpn| AHS -\ud83c\uddfa\ud83c\uddf8|234.11",
+        "time": "2026-09-26 21:47:13"
     },
     {
         "channel": {
@@ -56,8 +76,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
         },
         "type": "reality",
-        "config": "vless:\/\/ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=reality&amp;encryption=none&amp;pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandexcloud.net&amp;sid=123abcde#REALITY|@free1_vpn|\ud83c\uddee\ud83c\uddf6|135.46",
-        "time": "2026-09-26 18:23:29"
+        "config": "vless:\/\/35dab1a4-512d-42f7-8d03-36a3d7593687@185.241.208.241:8443?security=reality&amp;encryption=none&amp;pbk=9kVLF7EpBuo8J4j8IAdescF0pGQXfWljq3XdC4J8Okk&amp;fp=firefox&amp;type=grpc&amp;serviceName=edge&amp;sni=m1.vk.ru&amp;sid=a2b223d4#REALITY|@free1_vpn|\ud83c\uddf5\ud83c\uddf1|150.87",
+        "time": "2026-09-26 21:47:12"
     },
     {
         "channel": {
@@ -65,9 +85,19 @@
             "title": "Free_VPN \u221a v2ray \u221a NapsternetV \u221a custom \u221a injector \u221a",
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
         },
-        "type": "reality",
-        "config": "vless:\/\/ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=reality&amp;encryption=none&amp;pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandexcloud.net&amp;sid=123abcde#REALITY|@free1_vpn|\ud83c\uddee\ud83c\uddf6|132.17",
-        "time": "2026-09-26 18:23:27"
+        "type": "vless",
+        "config": "vless:\/\/XlnTeam-36@199.232.78.160:443?path=\/&amp;security=tls&amp;alpn=http\/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@free1_vpn| AHS -\ud83c\uddfa\ud83c\uddf8|1.67",
+        "time": "2026-09-26 21:47:11"
+    },
+    {
+        "channel": {
+            "username": "free1_vpn",
+            "title": "Free_VPN \u221a v2ray \u221a NapsternetV \u221a custom \u221a injector \u221a",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=\/&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@free1_vpn| AHS -\ud83c\uddfa\ud83c\uddf8|4.51",
+        "time": "2026-09-26 21:47:11"
     },
     {
         "channel": {
@@ -76,8 +106,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/V2rayngninja.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?encryption=none&amp;security=tls&amp;sni=promo.worldofwarships.eu&amp;alpn=h2,http\/1.1&amp;fp=firefox&amp;type=ws&amp;host=mythstore.ir&amp;path=\/ws\/?ed=2048#@V2rayngninja| AHS -\ud83c\uddf1\ud83c\uddfa|17.55",
-        "time": "2026-09-26 18:23:12"
+        "config": "vless:\/\/52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?encryption=none&amp;security=tls&amp;sni=promo.worldofwarships.eu&amp;alpn=h2,http\/1.1&amp;fp=firefox&amp;type=ws&amp;host=mythstore.ir&amp;path=\/ws\/?ed=2048#@V2rayngninja| AHS -\ud83c\uddf1\ud83c\uddfa|16.2",
+        "time": "2026-09-26 21:46:55"
     },
     {
         "channel": {
@@ -86,8 +116,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/proxy_kafee.jpg"
         },
         "type": "reality",
-        "config": "vless:\/\/280e6d2e-b93e-4f51-bc9e-bf2bb709c81c@ger-asli.jorzel.ir:9145?encryption=none&amp;security=reality&amp;sni=android.clients.google.com&amp;fp=ios&amp;pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&amp;sid=5e06032a9c448538&amp;type=tcp&amp;headerType=none#REALITY|@proxy_kafee|\ud83c\udde9\ud83c\uddea|274.85",
-        "time": "2026-09-26 18:23:00"
+        "config": "vless:\/\/721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?encryption=none&amp;security=reality&amp;sni=s3.netavex.com&amp;pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&amp;sid=e0&amp;type=xhttp&amp;path=\/assets\/v2\/pkg&amp;mode=stream-one&amp;extra={\"xmux\":{\"maxConcurrency\":\"16-32\"}}#REALITY|@proxy_kafee|\ud83c\uddf3\ud83c\uddf1|333.64",
+        "time": "2026-09-26 21:46:41"
     },
     {
         "channel": {
@@ -96,8 +126,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoiQHZwbl90ZWhyYW58IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDIzLjgxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-        "time": "2026-09-26 18:22:52"
+        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX3RlaHJhbnwgQUhTIC1cdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWF8OC41MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+        "time": "2026-09-26 21:46:33"
     },
     {
         "channel": {
@@ -106,8 +136,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX3RlaHJhbnwgQUhTIC1cdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWF8MjUuMjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-        "time": "2026-09-26 18:22:52"
+        "config": "vmess:\/\/eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJAdnBuX3RlaHJhbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmN8MTUyLjQ0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+        "time": "2026-09-26 21:46:32"
     },
     {
         "channel": {
@@ -116,8 +146,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJAdnBuX3RlaHJhbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmN8MTYzLjA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-        "time": "2026-09-26 18:22:51"
+        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoiQHZwbl90ZWhyYW58IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDguNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+        "time": "2026-09-26 21:46:32"
     },
     {
         "channel": {
@@ -126,18 +156,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=\/&amp;security=none&amp;encryption=none&amp;host=mypanel.unixzone.us&amp;type=ws#@vpn_tehran| AHS -\ud83c\uddf3\ud83c\uddf1|unavailable",
-        "time": "2026-09-26 18:22:50"
-    },
-    {
-        "channel": {
-            "username": "vpn_tehran",
-            "title": "V2rayNG \u0645\u0631\u06a9\u0632 \u062a\u062e\u0635\u0635\u06cc",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
-        },
-        "type": "vless",
-        "config": "vless:\/\/3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&amp;path=\/kavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#@vpn_tehran| AHS -\ud83c\uddf3\ud83c\uddf1|146.76",
-        "time": "2026-09-26 18:22:48"
+        "config": "vless:\/\/05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=\/&amp;security=none&amp;encryption=none&amp;host=mypanel.unixzone.us&amp;type=ws#@vpn_tehran| AHS -\ud83c\uddf3\ud83c\uddf1|184.99",
+        "time": "2026-09-26 21:46:30"
     },
     {
         "channel": {
@@ -146,8 +166,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@8.47.69.0:443?path=\/assignment&amp;security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#\ud83d\udea9|@vpn_tehran| AHS -18.07",
-        "time": "2026-09-26 18:22:46"
+        "config": "trojan:\/\/humanity@8.47.69.0:443?path=\/assignment&amp;security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#\ud83d\udea9|@vpn_tehran| AHS -9.43",
+        "time": "2026-09-26 21:46:27"
     },
     {
         "channel": {
@@ -156,8 +176,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/MITIVpN@151.101.56.7:443?security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#\ud83c\uddfa\ud83c\uddf8|@vpn_tehran| AHS -17.49",
-        "time": "2026-09-26 18:22:46"
+        "config": "trojan:\/\/MITIVpN@151.101.56.7:443?security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#\ud83c\uddfa\ud83c\uddf8|@vpn_tehran| AHS -1.95",
+        "time": "2026-09-26 21:46:27"
     },
     {
         "channel": {
@@ -166,18 +186,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/lrnbymaa.jpg"
         },
         "type": "reality",
-        "config": "vless:\/\/4cf9c712-11c4-47d8-aa31-a1693a1aa4e5@150.241.105.184:443?flow=xtls-rprx-vision&amp;encryption=none&amp;security=reality&amp;sni=www.v2host.ru&amp;fp=firefox&amp;pbk=hXqnRjRf0FfXsWWfj-tJY9hxq7dDfu_KWB9udeNGkFI&amp;sid=7791cacf0b57f34c&amp;type=tcp&amp;headerType=none#REALITY|@lrnbymaa|\ud83c\uddfa\ud83c\uddf8|132.63",
-        "time": "2026-09-26 18:22:44"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
-        },
-        "type": "reality",
-        "config": "vless:\/\/482514e8-2979-4628-acf3-d04f607c4f12@78.17.85.30:443?sni=flo.ufogame.tech&amp;headerType=none&amp;encryption=none&amp;security=reality&amp;type=tcp&amp;spx=\/AhmadV2ray&amp;pbk=zsHnZqOsCsD1-WFxqIsQZAuS9KNyGLmFD7KFHf7PRF8&amp;fp=firefox&amp;sid=04f1c6d2&amp;flow=xtls-rprx-vision&amp;fm=AhmadV2ray#REALITY|@ConfigsHUB|\ud83c\uddeb\ud83c\uddee|212.23",
-        "time": "2026-09-26 18:22:31"
+        "config": "vless:\/\/ce230b9c-0531-40da-bc3f-f27a8e059db1@62.60.152.1:56328?flow=xtls-rprx-vision&amp;encryption=none&amp;security=reality&amp;sni=table.vkroom-it-service.xyz&amp;pbk=iI1pc8k9-mIPHL2Dga-4n4h3KoBT68lN434nglpgm2M&amp;sid=f3a9c21e8b6d4571&amp;type=tcp&amp;headerType=none#REALITY|@lrnbymaa|\ud83c\uddee\ud83c\uddf7|159.25",
+        "time": "2026-09-26 21:46:25"
     },
     {
         "channel": {
@@ -186,18 +196,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vless_vmess.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=\/&amp;security=tls&amp;encryption=none&amp;host=hetzner-4.access.name.ng&amp;type=ws&amp;sni=hetzner-4.access.name.ng#@vless_vmess| AHS -\ud83d\udea9|45.35",
-        "time": "2026-09-26 18:22:16"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI2NS4xMDkuMTc4LjkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU4NDVkZjE0LTYzOWQtNDBjYS04NDRlLTMyY2NkODNhZmI2MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiQENvbmZpZ3NIVUJ8IEFIUyAtXHVkODNjXHVkZGViXHVkODNjXHVkZGVlfDE0NS4yOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-        "time": "2026-09-26 18:22:16"
+        "config": "vless:\/\/ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=\/&amp;security=tls&amp;encryption=none&amp;host=hetzner-4.access.name.ng&amp;type=ws&amp;sni=hetzner-4.access.name.ng#@vless_vmess| AHS -\ud83d\udea9|23.2",
+        "time": "2026-09-26 21:45:54"
     },
     {
         "channel": {
@@ -206,18 +206,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJAdjJyYXkxX25nfCBBSFMgLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYXwyNjIuMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=",
-        "time": "2026-09-26 18:22:15"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng",
-            "title": "V2RayNg &amp; Napsternet V",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
-        },
-        "type": "reality",
-        "config": "vless:\/\/ff6d2dda-7b90-404e-9951-34b3124bfdfa@2.26.11.234:9543?security=reality&amp;encryption=none&amp;pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandexcloud.net&amp;sid=123abcdf#REALITY|@v2ray1_ng|\ud83c\uddfa\ud83c\uddf8|130.18",
-        "time": "2026-09-26 18:22:12"
+        "config": "vmess:\/\/eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJAdjJyYXkxX25nfCBBSFMgLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYXw0NjUuNTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=",
+        "time": "2026-09-26 21:45:53"
     },
     {
         "channel": {
@@ -226,18 +216,18 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=\/ws?ed#&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=a.cwvps.eu.org&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=a.cwvps.eu.org#@v2ray1_ng| AHS -\ud83d\udea9|18.31",
-        "time": "2026-09-26 18:22:11"
+        "config": "vless:\/\/XlnTeam-36@199.232.78.160:443?path=\/&amp;security=tls&amp;alpn=http\/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2ray1_ng| AHS -\ud83c\uddfa\ud83c\uddf8|1.8",
+        "time": "2026-09-26 21:45:49"
     },
     {
         "channel": {
-            "username": "ConfigsHUB",
-            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
+            "username": "v2ray1_ng",
+            "title": "V2RayNg &amp; Napsternet V",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
-        "type": "trojan",
-        "config": "trojan:\/\/humanity@8.47.69.0:443?path=\/assignment&amp;security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#\ud83d\udea9|@ConfigsHUB| AHS -17.79",
-        "time": "2026-09-26 18:22:10"
+        "type": "vless",
+        "config": "vless:\/\/9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=\/&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2ray1_ng| AHS -\ud83c\uddfa\ud83c\uddf8|48.64",
+        "time": "2026-09-26 21:45:48"
     },
     {
         "channel": {
@@ -246,8 +236,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@172.67.149.60:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83d\udea9|@v2ray1_ng| AHS -18.01",
-        "time": "2026-09-26 18:22:10"
+        "config": "trojan:\/\/humanity@172.67.149.60:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83d\udea9|@v2ray1_ng| AHS -16.7",
+        "time": "2026-09-26 21:45:47"
     },
     {
         "channel": {
@@ -256,8 +246,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@188.114.97.7:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83d\udea9|@v2ray1_ng| AHS -17.83",
-        "time": "2026-09-26 18:22:10"
+        "config": "trojan:\/\/humanity@www.speedtest.net:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83d\udea9|@v2ray1_ng| AHS -29.37",
+        "time": "2026-09-26 21:45:46"
     },
     {
         "channel": {
@@ -266,8 +256,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@www.speedtest.net:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83d\udea9|@v2ray1_ng| AHS -34.62",
-        "time": "2026-09-26 18:22:09"
+        "config": "trojan:\/\/humanity@render.com:443?path=\/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs+udp:\/\/8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#\ud83c\uddfa\ud83c\uddf8|@v2ray1_ng| AHS -19.92",
+        "time": "2026-09-26 21:45:46"
     },
     {
         "channel": {
@@ -276,8 +266,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray_swhil.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE?ed=8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#@v2ray_swhil| AHS -\ud83d\udea9|17.69",
-        "time": "2026-09-26 18:21:59"
+        "config": "vless:\/\/95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE?ed=8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#@v2ray_swhil| AHS -\ud83d\udea9|8.94",
+        "time": "2026-09-26 21:45:35"
     },
     {
         "channel": {
@@ -286,8 +276,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray_swhil.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?encryption=none&amp;security=tls&amp;sni=mio.splashthat.com&amp;alpn=h2,http\/1.1&amp;fp=chrome&amp;type=ws&amp;host=Shuow10.net&amp;path=\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#@v2ray_swhil| AHS -\ud83c\uddfa\ud83c\uddf8|17.1",
-        "time": "2026-09-26 18:21:58"
+        "config": "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?encryption=none&amp;security=tls&amp;sni=mio.splashthat.com&amp;alpn=h2,http\/1.1&amp;fp=chrome&amp;type=ws&amp;host=Shuow10.net&amp;path=\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#@v2ray_swhil| AHS -\ud83c\uddfa\ud83c\uddf8|2.05",
+        "time": "2026-09-26 21:45:34"
     },
     {
         "channel": {
@@ -296,18 +286,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray_swhil.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?path=\/Telegram,VPNCUSTOMIZE?ed=2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#@v2ray_swhil| AHS -\ud83c\udde6\ud83c\uddea|39.45",
-        "time": "2026-09-26 18:21:58"
-    },
-    {
-        "channel": {
-            "username": "DarkVPNpro",
-            "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 | V2ray | Reality",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/DarkVPNpro.jpg"
-        },
-        "type": "vless",
-        "config": "vless:\/\/9e115284-cb15-4386-a408-c2e7da4881e4@185.143.233.235:80?security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#@DarkVPNpro| AHS -\ud83c\uddee\ud83c\uddf7|120.16",
-        "time": "2026-09-26 18:21:41"
+        "config": "vless:\/\/95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?path=\/Telegram,VPNCUSTOMIZE?ed=2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#@v2ray_swhil| AHS -\ud83c\udde6\ud83c\uddea|22.02",
+        "time": "2026-09-26 21:45:34"
     },
     {
         "channel": {
@@ -316,8 +296,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/kiava.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/67a2738a-9928-4106-a814-a5ac8497a4a5@snapp.ir:80?path=\/&amp;security=none&amp;encryption=none&amp;host=ar.liarashop.ir&amp;type=ws#@kiava| AHS -\ud83c\uddee\ud83c\uddf7|278.21",
-        "time": "2026-09-26 18:21:14"
+        "config": "vless:\/\/67a2738a-9928-4106-a814-a5ac8497a4a5@snapp.ir:80?path=\/&amp;security=none&amp;encryption=none&amp;host=ar.liarashop.ir&amp;type=ws#@kiava| AHS -\ud83c\uddee\ud83c\uddf7|unavailable",
+        "time": "2026-09-26 21:44:45"
     },
     {
         "channel": {
@@ -326,8 +306,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2rayNG_Matsuri.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@104.17.169.13:443?path=\/snob-ws&amp;security=tls&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&amp;insecure=0&amp;host=fi.snobvpn.online&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=fi.snobvpn.online#@v2rayNG_Matsuri| AHS -\ud83d\udea9|17.92",
-        "time": "2026-09-26 18:20:56"
+        "config": "vless:\/\/246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@104.17.169.13:443?path=\/snob-ws&amp;security=tls&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\",\"1\"],\"delays\":[\"0\"],\"maxSplit\":\"0\"}},{\"type\":\"fragment\",\"settings\":{\"packets\":\"1-1\",\"lengths\":[\"114\",\"1\"],\"delays\":[\"1\"],\"maxSplit\":\"11\"}}]}&amp;insecure=0&amp;host=fi.snobvpn.online&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=fi.snobvpn.online#@v2rayNG_Matsuri| AHS -\ud83d\udea9|8.76",
+        "time": "2026-09-26 21:44:24"
     },
     {
         "channel": {
@@ -336,8 +316,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2rayNG_Matsuri.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=\/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2rayNG_Matsuri| AHS -\ud83c\uddfa\ud83c\uddf8|17.38",
-        "time": "2026-09-26 18:20:55"
+        "config": "vless:\/\/64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=\/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2rayNG_Matsuri| AHS -\ud83c\uddfa\ud83c\uddf8|1.96",
+        "time": "2026-09-26 21:44:23"
     },
     {
         "channel": {
@@ -346,8 +326,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2rayNG_Matsuri.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=\/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2rayNG_Matsuri| AHS -\ud83c\uddfa\ud83c\uddf8|17.23",
-        "time": "2026-09-26 18:20:55"
+        "config": "vless:\/\/64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=\/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2rayNG_Matsuri| AHS -\ud83c\uddfa\ud83c\uddf8|1.88",
+        "time": "2026-09-26 21:44:23"
     },
     {
         "channel": {
@@ -356,8 +336,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vmessorg.jpg"
         },
         "type": "reality",
-        "config": "vless:\/\/c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=aparat.com&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0&amp;pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&amp;sid=f373df45a687eaff&amp;spx=\/#REALITY|@vmessorg|\ud83c\uddee\ud83c\uddf7|794.5",
-        "time": "2026-09-26 18:20:53"
+        "config": "vless:\/\/c26fe2f0-5c69-0015-8a1a-bf116ceb9215@jsv-ir2.jmovies.ir:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;sni=aparat.com&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0&amp;pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&amp;sid=f373df45a687eaff&amp;spx=\/#REALITY|@vmessorg|\ud83c\uddee\ud83c\uddf7|556.42",
+        "time": "2026-09-26 21:44:21"
     },
     {
         "channel": {
@@ -366,8 +346,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/prrofile_purple.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/83b4af70-376e-427c-8c11-a025bec6b085@188.114.97.6:443?path=\/cdn\/99294c014f2c7791?ed=2056&amp;security=tls&amp;alpn=http\/1.1&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\"]}}]}&amp;insecure=0&amp;host=fserver-worker-001.mapleridgeway.top&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=fserver-worker-001.mapleridgeway.top#@prrofile_purple| AHS -\ud83d\udea9|18.04",
-        "time": "2026-09-26 18:20:39"
+        "config": "vless:\/\/86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?path=\/&amp;security=tls&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\"]}}]}&amp;insecure=0&amp;host=llm-api.sofurry.dpdns.org&amp;type=ws&amp;allowInsecure=0&amp;sni=llm-api.sofurry.dpdns.org#@prrofile_purple| AHS -\ud83d\udea9|8.6",
+        "time": "2026-09-26 21:44:04"
     },
     {
         "channel": {
@@ -376,8 +356,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/prrofile_purple.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/9f44d517-29f2-4c6d-cc06-a1268f13da58@188.114.97.6:443?mode=auto&amp;path=\/Meh?di=443&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\"]}}]}&amp;insecure=0&amp;host=kala.bestsellers1.site&amp;fp=unsafe&amp;type=xhttp&amp;allowInsecure=0&amp;sni=kala.bestsellers1.site#@prrofile_purple| AHS -\ud83d\udea9|18.31",
-        "time": "2026-09-26 18:20:38"
+        "config": "vless:\/\/86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?security=tls&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\"]}}]}&amp;insecure=0&amp;host=llm-api.sofurry.dpdns.org&amp;type=ws&amp;allowInsecure=0&amp;sni=llm-api.sofurry.dpdns.org#@prrofile_purple| AHS -\ud83d\udea9|8.7",
+        "time": "2026-09-26 21:44:04"
     },
     {
         "channel": {
@@ -386,8 +366,8 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/prrofile_purple.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?path=\/&amp;security=tls&amp;encryption=none&amp;fm={\"tcp\":[{\"type\":\"fragment\",\"settings\":{\"packets\":\"tlshello\",\"lengths\":[\"0\",\"104\"]}}]}&amp;insecure=0&amp;host=llm-api.sofurry.dpdns.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=llm-api.sofurry.dpdns.org#@prrofile_purple| AHS -\ud83d\udea9|18.35",
-        "time": "2026-09-26 18:20:38"
+        "config": "vless:\/\/168d58f6-cb16-427e-88f3-02bc42b23560@62.60.219.25:2096?path=\/&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t-1.digikalamagg.com#@prrofile_purple| AHS -\ud83c\uddee\ud83c\uddf7|209.11",
+        "time": "2026-09-26 21:44:04"
     },
     {
         "channel": {
@@ -395,9 +375,59 @@
             "title": "Outline Vpn",
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/Outline_Vpn.jpg"
         },
+        "type": "vless",
+        "config": "vless:\/\/db45b571-47cc-44ef-bbf6-dfd3d411f2d8@chatgpt.com:80?path=\/CooonfigCooonfigCooonfigCooonfigCooonfig&amp;security=none&amp;encryption=none&amp;host=msjsi.azazilvpn.sbs.&amp;type=ws#@Outline_Vpn| AHS -\ud83d\udea9|10.47",
+        "time": "2026-09-26 21:44:00"
+    },
+    {
+        "channel": {
+            "username": "Outline_Vpn",
+            "title": "Outline Vpn",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/Outline_Vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Outline_Vpn| AHS -\ud83c\uddf3\ud83c\uddf1|146.34",
+        "time": "2026-09-26 21:44:00"
+    },
+    {
+        "channel": {
+            "username": "Outline_Vpn",
+            "title": "Outline Vpn",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/Outline_Vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=\/fd5ba98a3970&amp;security=none&amp;encryption=none&amp;host=82.24.203.20&amp;type=ws#@Outline_Vpn| AHS -\ud83c\uddec\ud83c\udde7|161.28",
+        "time": "2026-09-26 21:43:59"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB",
+            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
+        },
         "type": "reality",
-        "config": "vless:\/\/c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?security=reality&amp;encryption=none&amp;pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gesmankos.sadiepinki.com&amp;sid=4fa44664f6a566d3#REALITY|@Outline_Vpn|\ud83c\uddf8\ud83c\udde8|178.11",
-        "time": "2026-09-26 18:20:36"
+        "config": "vless:\/\/c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&amp;security=reality&amp;sni=www.cloudflare.com&amp;type=tcp#REALITY|@ConfigsHUB|\ud83c\uddfa\ud83c\uddf8|56.45",
+        "time": "2026-09-26 21:42:03"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB",
+            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/ee37423d-1c64-42a9-b58a-16b8b64450da@users.cactusop.ir:2053?security=tls&amp;encryption=mlkem768x25519plus.native.0rtt.G1akYTD0MQTeWMD1tkbpt6nN67d53R3vGsb3mmC0pn8&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=panel.cactusop.ir#@ConfigsHUB| AHS -\ud83c\uddee\ud83c\uddf7|481.25",
+        "time": "2026-09-26 21:37:43"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB",
+            "title": "\ud835\ude3e\ud835\ude64\ud835\ude63\ud835\ude5b\ud835\ude5e\ud835\ude5c\ud835\ude68\ud835\ude43\ud835\ude6a\ud835\ude57",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ConfigsHUB.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiI2NS4xMDkuMTc4LjkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU4NDVkZjE0LTYzOWQtNDBjYS04NDRlLTMyY2NkODNhZmI2MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiQENvbmZpZ3NIVUJ8IEFIUyAtXHVkODNjXHVkZGViXHVkODNjXHVkZGVlfDE1OC41OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+        "time": "2026-09-26 21:36:28"
     },
     {
         "channel": {
@@ -406,47 +436,47 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VlessConfig.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.245.210:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddeb\ud83c\uddf7|125.44",
+        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.145.227:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddec\ud83c\udde7|128.65",
+        "time": "2026-09-26 20:05:21"
+    },
+    {
+        "channel": {
+            "username": "VlessConfig",
+            "title": "Vless | Vmess | Trojan",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VlessConfig.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.206.105:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddec\ud83c\udde7|129.87",
+        "time": "2026-09-26 19:35:50"
+    },
+    {
+        "channel": {
+            "username": "VlessConfig",
+            "title": "Vless | Vmess | Trojan",
+            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VlessConfig.jpg"
+        },
+        "type": "vless",
+        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.245.210:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddeb\ud83c\uddf7|137.24",
         "time": "2026-09-26 16:06:07"
     },
     {
         "channel": {
-            "username": "VlessConfig",
-            "title": "Vless | Vmess | Trojan",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VlessConfig.jpg"
-        },
-        "type": "vless",
-        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.141.142:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddeb\ud83c\uddf7|127.56",
-        "time": "2026-09-26 14:05:51"
-    },
-    {
-        "channel": {
             "username": "oneclickvpnkeys",
             "title": "OneClick VPN\ud83d\udd11v2rayNG\ud83d\udd11Matsuri\ud83d\udd11SagerNet\ud83d\udd11",
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/oneclickvpnkeys.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@185.220.100.168:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -18.41",
+        "config": "trojan:\/\/humanity@185.220.100.168:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -10.17",
         "time": "2026-09-26 12:49:04"
     },
     {
         "channel": {
-            "username": "VlessConfig",
-            "title": "Vless | Vmess | Trojan",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VlessConfig.jpg"
-        },
-        "type": "vless",
-        "config": "vless:\/\/e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.136.35:22224?encryption=none&amp;security=none&amp;type=tcp#@VlessConfig| AHS -\ud83c\uddec\ud83c\udde7|120.9",
-        "time": "2026-09-26 12:20:36"
-    },
-    {
-        "channel": {
             "username": "oneclickvpnkeys",
             "title": "OneClick VPN\ud83d\udd11v2rayNG\ud83d\udd11Matsuri\ud83d\udd11SagerNet\ud83d\udd11",
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/oneclickvpnkeys.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@45.130.125.75:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -18.79",
+        "config": "trojan:\/\/humanity@45.130.125.75:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -10.48",
         "time": "2026-09-26 11:53:05"
     },
     {
@@ -456,17 +486,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VmessProtocol.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/162ff214-21c8-4963-a80a-6200cbad787e@206.1.103.65:6008?encryption=mlkem768x25519plus.native.0rtt.fYKwblQFFkxn9tc6wurCqLsGzGlwuyBQi7d1k283fGI&amp;type=tcp&amp;headerType=none#@VmessProtocol| AHS -\ud83c\uddf9\ud83c\uddf7|192.67",
-        "time": "2026-09-26 10:23:58"
-    },
-    {
-        "channel": {
-            "username": "VmessProtocol",
-            "title": "V2ray Vless | \u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 | \u0633\u0631\u0648\u0631 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc",
-            "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VmessProtocol.jpg"
-        },
-        "type": "vless",
-        "config": "vless:\/\/cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=pl4.moritech.net&amp;alpn=h2#@VmessProtocol| AHS -\ud83c\uddf5\ud83c\uddf1|146.42",
+        "config": "vless:\/\/cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=pl4.moritech.net&amp;alpn=h2#@VmessProtocol| AHS -\ud83c\uddf5\ud83c\uddf1|159.84",
         "time": "2026-09-26 10:07:40"
     },
     {
@@ -476,7 +496,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/oneclickvpnkeys.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@45.130.125.160:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -18.08",
+        "config": "trojan:\/\/humanity@45.130.125.160:443?host=www.calmlunch.com&amp;path=\/assignment&amp;sni=www.calmlunch.com&amp;type=ws#\ud83d\udea9|@oneclickvpnkeys| AHS -9.6",
         "time": "2026-09-26 09:40:06"
     },
     {
@@ -486,7 +506,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQGZyZWUxX3ZwbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTYyLjM1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQGZyZWUxX3ZwbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTcwLjg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
         "time": "2026-09-25 18:34:29"
     },
     {
@@ -496,7 +516,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHYycmF5MV9uZ3wgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTYyLjMyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHYycmF5MV9uZ3wgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTY2LjgxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
         "time": "2026-09-25 18:34:03"
     },
     {
@@ -506,7 +526,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free1_vpn.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQGZyZWUxX3ZwbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTYxLjc2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQGZyZWUxX3ZwbnwgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTY1Ljk3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
         "time": "2026-09-24 21:40:44"
     },
     {
@@ -516,7 +536,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2ray1_ng.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHYycmF5MV9uZ3wgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTYxLjY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHYycmF5MV9uZ3wgQUhTIC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjd8MTY2LjIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
         "time": "2026-09-24 21:40:24"
     },
     {
@@ -526,7 +546,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_tehran.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/humanity@8.47.69.0:443?path=\/assignment&amp;security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#\ud83d\udea9|@vpn_tehran| AHS -17.85",
+        "config": "trojan:\/\/humanity@8.47.69.0:443?path=\/assignment&amp;security=tls&amp;alpn=http\/1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#\ud83d\udea9|@vpn_tehran| AHS -9.83",
         "time": "2026-09-24 16:31:19"
     },
     {
@@ -536,7 +556,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_ioss.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX2lvc3N8IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDIzLjg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX2lvc3N8IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDguODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
         "time": "2026-09-24 10:50:42"
     },
     {
@@ -546,7 +566,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_ioss.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkB2cG5faW9zc3wgQUhTIC1cdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTd8MTExLjA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkB2cG5faW9zc3wgQUhTIC1cdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTd8MTI1LjY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
         "time": "2026-09-24 10:50:35"
     },
     {
@@ -556,7 +576,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/vpn_ioss.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX2lvc3N8IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDIzLjk5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJAdnBuX2lvc3N8IEFIUyAtXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhfDguNTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
         "time": "2026-09-24 10:50:28"
     },
     {
@@ -566,7 +586,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/VmessProtocol.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?path=\/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nb.lovecf.ggff.net&amp;type=ws&amp;allowInsecure=0&amp;sni=nb.lovecf.ggff.net#@VmessProtocol| AHS -\ud83c\uddf8\ud83c\udde6|17.88",
+        "config": "vless:\/\/b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?path=\/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nb.lovecf.ggff.net&amp;type=ws&amp;allowInsecure=0&amp;sni=nb.lovecf.ggff.net#@VmessProtocol| AHS -\ud83c\uddf8\ud83c\udde6|9.74",
         "time": "2026-09-21 15:46:15"
     },
     {
@@ -576,7 +596,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/libersurf.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/a4fe6617-2720-497f-a3e8-4ef4a7e85624@5.9.98.45:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&amp;security=tls&amp;sni=aparatsport.ir&amp;fp=chrome&amp;alpn=h2&amp;insecure=0&amp;allowInsecure=0&amp;pcs=516F8636A1233272AA0F281A81F492F882354213BA4C212D80C5BBBF19041D32&amp;type=ws&amp;host=Liber1.b-cdn.net#@libersurf| AHS -\ud83c\udde9\ud83c\uddea|135.96",
+        "config": "vless:\/\/a4fe6617-2720-497f-a3e8-4ef4a7e85624@5.9.98.45:443?encryption=mlkem768x25519plus.native.0rtt._Iw_26TmwEm4IqWRegt0H8MUykosG7DGizsl0o4Jcxg&amp;security=tls&amp;sni=aparatsport.ir&amp;fp=chrome&amp;alpn=h2&amp;insecure=0&amp;allowInsecure=0&amp;pcs=516F8636A1233272AA0F281A81F492F882354213BA4C212D80C5BBBF19041D32&amp;type=ws&amp;host=Liber1.b-cdn.net#@libersurf| AHS -\ud83c\udde9\ud83c\uddea|135.57",
         "time": "2026-08-30 03:01:12"
     },
     {
@@ -586,7 +606,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/free4allVPN.jpg"
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@free4allVPN| AHS -\ud83c\uddec\ud83c\udde7|130.6",
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@free4allVPN| AHS -\ud83c\uddec\ud83c\udde7|147.4",
         "time": "2025-12-21 16:47:30"
     },
     {
@@ -596,7 +616,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ovpn2.jpg"
         },
         "type": "trojan",
-        "config": "trojan:\/\/dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#\ud83c\uddfa\ud83c\uddf8|@ovpn2| AHS -17.51",
+        "config": "trojan:\/\/dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#\ud83c\uddfa\ud83c\uddf8|@ovpn2| AHS -8.72",
         "time": "2024-01-28 13:54:21"
     },
     {
@@ -606,7 +626,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ovpn2.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&amp;sni=jenaei.movieland.top&amp;type=grpc&amp;serviceName=static43498&amp;encryption=none#@ovpn2| AHS -\ud83c\uddfa\ud83c\uddf8|18.66",
+        "config": "vless:\/\/fedc279b-ccb3-4205-bb47-31ac79ae4e7a@162.159.138.232:443?security=tls&amp;sni=jenaei.movieland.top&amp;type=grpc&amp;serviceName=static43498&amp;encryption=none#@ovpn2| AHS -\ud83c\uddfa\ud83c\uddf8|10.06",
         "time": "2024-01-28 13:38:18"
     },
     {
@@ -616,7 +636,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/ovpn2.jpg"
         },
         "type": "vless",
-        "config": "vless:\/\/b98edf3e-77ab-457d-9228-4b7a3cfb5ac0@de.melov2ray.shop:443?path=\/melov2ray&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;fp=chrome&amp;type=ws&amp;sni=De.Melov2ray.Shop#@ovpn2| AHS -\ud83c\udde6\ud83c\uddfa|127.2",
+        "config": "vless:\/\/b98edf3e-77ab-457d-9228-4b7a3cfb5ac0@de.melov2ray.shop:443?path=\/melov2ray&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;fp=chrome&amp;type=ws&amp;sni=De.Melov2ray.Shop#@ovpn2| AHS -\ud83c\udde6\ud83c\uddfa|139.56",
         "time": "2024-01-03 19:49:41"
     },
     {
@@ -626,7 +646,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/internet4iran.jpg"
         },
         "type": "reality",
-        "config": "vless:\/\/418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=random&amp;sni=www.openoffice.org&amp;pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&amp;sid=4c9dbb0cb1f36dab#REALITY|@internet4iran|\ud83c\udde9\ud83c\uddea|138.01",
+        "config": "vless:\/\/418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=random&amp;sni=www.openoffice.org&amp;pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&amp;sid=4c9dbb0cb1f36dab#REALITY|@internet4iran|\ud83c\udde9\ud83c\uddea|136.41",
         "time": "2023-08-15 01:19:07"
     },
     {
@@ -636,7 +656,7 @@
             "logo": "https:\/\/raw.githubusercontent.com\/alihusains\/v2gram\/main\/modules\/channels\/v2rayvmess.jpg"
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiJpZC1sYi52aGF4Lm5ldCIsImFpZCI6IjAiLCJob3N0Ijoiem9vbS51cyIsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9zc2hraXRcL0Fyc2hhbTg1MjMxXC82MzQ3ZDA4MDIyYjkxXC8iLCJwb3J0IjoiODAiLCJwcyI6IkB2MnJheXZtZXNzfCBBSFMgLVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHwxOC40OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "config": "vmess:\/\/eyJhZGQiOiJpZC1sYi52aGF4Lm5ldCIsImFpZCI6IjAiLCJob3N0Ijoiem9vbS51cyIsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9zc2hraXRcL0Fyc2hhbTg1MjMxXC82MzQ3ZDA4MDIyYjkxXC8iLCJwb3J0IjoiODAiLCJwcyI6IkB2MnJheXZtZXNzfCBBSFMgLVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHw5LjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
         "time": "2022-10-23 01:29:45"
     }
 ]
