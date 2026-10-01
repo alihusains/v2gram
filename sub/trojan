@@ -1,10 +1,8 @@
-trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&path=%2F&sni=ssl.fastly.com&type=ws#🇺🇸|@oneclickvpnkeys| AHS -1.7
-trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇺🇸|@oneclickvpnkeys| AHS -2.45
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys| AHS -3.35
-trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?alpn=h2&extra=%7B&security=tls
-trojan://
-trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@v2ray1_ng| AHS -7.6
-trojan://humanity@78.47.146.151:443?allowInsecure=0&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🇩🇪|@v2ray1_ng| AHS -96.24
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2| AHS -2.29
-trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran| AHS -2.54
-trojan://mitivpn@167.82.76.7:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&insecure=0&path=%40mehrosaboran&security=tls&sni=ssl.fastly.com&type=ws#🇺🇸|@ConfigsHUB| AHS -1.88
+trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&path=%2F&sni=ssl.fastly.com&type=ws#🇺🇸|@oneclickvpnkeys| AHS -12.18
+trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇺🇸|@oneclickvpnkeys| AHS -10.91
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys| AHS -10
+trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@v2ray1_ng| AHS -9.18
+trojan://humanity@78.47.146.151:443?allowInsecure=0&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🇩🇪|@v2ray1_ng| AHS -138.85
+trojan://humanity@188.42.145.180:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.volumerOot.coM.&insecure=0&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#🇱🇺|@v2ray1_ng| AHS -8.86
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2| AHS -12.31
+trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran| AHS -9.03
