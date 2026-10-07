@@ -1,9 +1,7 @@
-trojan://2e631f0c-226a-484b-9e7c-d6c9c444ef13@fmwf6gbnad0a.dop16.com:443?alpn=http%2F1.1#🇫🇷|@oneclickvpnkeys| AHS -169.33
-trojan://UX82473651@63.178.198.94:443?fp=chrome&sni=pleased-albacore.rooster465.autos#🇩🇪|@oneclickvpnkeys| AHS -158.31
-trojan://Trojan@82164024@92.118.150.146:443?sni=pl.tronsg.com#🇵🇱|@oneclickvpnkeys| AHS -643.46
-trojan://UX82473651@18.143.92.167:443?allowInsecure=0&headerType=none&insecure=0&security=tls&sni=glowing-marmoset.rooster465.autos&type=tcp#🇸🇬|@v2ray1_ng| AHS -226.96
-trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🚩|@v2ray1_ng| AHS -2.38
-trojan://humanity@www.speedtest.net:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@v2ray1_ng| AHS -12.9
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2| AHS -1.73
-trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran| AHS -1.62
-trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#🇨🇦|@ConfigsHUB| AHS -69.18
+trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys| AHS -2.17
+trojan://humanity@8.47.69.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#🚩|@oneclickvpnkeys| AHS -2.2
+trojan://humanity@45.205.0.6:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇸🇨|@oneclickvpnkeys| AHS -2.05
+trojan://humanity@188.114.97.6:443?allowInsecure=0&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🚩|@v2ray1_ng| AHS -7.67
+trojan://humanity@www.speedtest.net:443?allowInsecure=0&ech=ip.gs+udp%3A%2F%2F8.8.8.8&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@v2ray1_ng| AHS -14.22
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2| AHS -1.56
+trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran| AHS -2.27
