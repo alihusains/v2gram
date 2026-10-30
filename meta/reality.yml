@@ -1,0 +1,193 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+proxies:
+  - name: REALITY|@Outline_Vpn|🇳🇱|130.58
+    server: 79.182.39.37
+    port: 27591
+    type: vless
+    uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: www.samsung.com
+    udp: true
+  - name: REALITY|@internet4iran|🇩🇪|113.4
+    server: 88.99.121.221
+    port: 443
+    type: vless
+    uuid: 418e0595-b419-4fc3-85c0-7980b90dab3b
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: www.openoffice.org
+    udp: true
+  - name: REALITY|@v2rayNG_Matsuri|🇳🇱|97.84
+    server: 51.158.206.26
+    port: 23576
+    type: vless
+    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: fuck.rkn
+    udp: true
+  - name: REALITY|@v2ray1_ng|🇨🇦|22.87
+    server: 66.70.179.198
+    port: 2053
+    type: vless
+    uuid: dc620cd6-a9d8-4a0f-8f18-006b895db77e
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: www.cloudflare.com
+    udp: true
+  - name: REALITY|@vpn_tehran|🇫🇷|111.77
+    server: 45.92.218.130
+    port: 443
+    type: vless
+    uuid: 9ff5db63-88ff-4276-ab71-ac2b5cb2a740
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: delivery.mp.microsoft.com
+    udp: true
+  - name: REALITY|@proxy_kafee|🇵🇱|116.88
+    server: 177.1.192.67
+    port: 443
+    type: vless
+    uuid: 706bce83-91db-4260-b175-cba29145cd56
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: up4.uni-plan.com
+    udp: true
+  - name: REALITY|@ConfigsHUB|🇧🇷|78.21
+    server: 177.7.51.29
+    port: 8443
+    type: vless
+    uuid: c6b1b2d0-ed5e-48ce-99e6-112ff330030d
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: www.apple.com
+    udp: true
+  - name: REALITY|@proxystore11|🇳🇱|97.22
+    server: 51.158.206.86
+    port: 23576
+    type: vless
+    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: fuck.rkn
+    udp: true
+  - name: REALITY|@v2rayngrit|🇸🇮|123.75
+    server: 92.42.201.107
+    port: 443
+    type: vless
+    uuid: d0c8aa8d-a535-432a-b521-21f0e561f643
+    cipher: auto
+    tls: false
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    servername: node-slo02.rkitman.ru
+    udp: true
+proxy-groups:
+  - name: MANUAL
+    type: select
+    proxies:
+      - REALITY|@Outline_Vpn|🇳🇱|130.58
+      - REALITY|@internet4iran|🇩🇪|113.4
+      - REALITY|@v2rayNG_Matsuri|🇳🇱|97.84
+      - REALITY|@v2ray1_ng|🇨🇦|22.87
+      - REALITY|@vpn_tehran|🇫🇷|111.77
+      - REALITY|@proxy_kafee|🇵🇱|116.88
+      - REALITY|@ConfigsHUB|🇧🇷|78.21
+      - REALITY|@proxystore11|🇳🇱|97.22
+      - REALITY|@v2rayngrit|🇸🇮|123.75
+      - LOAD-BALANCE
+      - BEST-PING
+      - FALLBACK
+      - DIRECT
+  - name: LOAD-BALANCE
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - REALITY|@Outline_Vpn|🇳🇱|130.58
+      - REALITY|@internet4iran|🇩🇪|113.4
+      - REALITY|@v2rayNG_Matsuri|🇳🇱|97.84
+      - REALITY|@v2ray1_ng|🇨🇦|22.87
+      - REALITY|@vpn_tehran|🇫🇷|111.77
+      - REALITY|@proxy_kafee|🇵🇱|116.88
+      - REALITY|@ConfigsHUB|🇧🇷|78.21
+      - REALITY|@proxystore11|🇳🇱|97.22
+      - REALITY|@v2rayngrit|🇸🇮|123.75
+  - name: BEST-PING
+    type: url-test
+    url: http://hi.bonds.id/ping
+    interval: 300
+    tolerance: 50
+    proxies:
+      - REALITY|@Outline_Vpn|🇳🇱|130.58
+      - REALITY|@internet4iran|🇩🇪|113.4
+      - REALITY|@v2rayNG_Matsuri|🇳🇱|97.84
+      - REALITY|@v2ray1_ng|🇨🇦|22.87
+      - REALITY|@vpn_tehran|🇫🇷|111.77
+      - REALITY|@proxy_kafee|🇵🇱|116.88
+      - REALITY|@ConfigsHUB|🇧🇷|78.21
+      - REALITY|@proxystore11|🇳🇱|97.22
+      - REALITY|@v2rayngrit|🇸🇮|123.75
+  - name: FALLBACK
+    type: fallback
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - REALITY|@Outline_Vpn|🇳🇱|130.58
+      - REALITY|@internet4iran|🇩🇪|113.4
+      - REALITY|@v2rayNG_Matsuri|🇳🇱|97.84
+      - REALITY|@v2ray1_ng|🇨🇦|22.87
+      - REALITY|@vpn_tehran|🇫🇷|111.77
+      - REALITY|@proxy_kafee|🇵🇱|116.88
+      - REALITY|@ConfigsHUB|🇧🇷|78.21
+      - REALITY|@proxystore11|🇳🇱|97.22
+      - REALITY|@v2rayngrit|🇸🇮|123.75
+rules:
+  - MATCH,MANUAL

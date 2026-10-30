@@ -1,0 +1,277 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+proxies:
+  - name: "|@oneclickvpnkeys| AHS -2.87"
+    server: 104.18.37.127
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.trusteeforward.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.trusteeforward.com
+    udp: true
+  - name: "|@oneclickvpnkeys| AHS -134.73"
+    server: 193.239.160.134
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.calmlunch.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: "|@v2ray1_ng| AHS -3.51"
+    server: 45.80.111.7
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.calmlunch.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.calmlunch.com
+    udp: true
+  - name: "|@v2ray1_ng| AHS -121.2"
+    server: 64.176.7.205
+    port: 443
+    type: trojan
+    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+    skip-cert-verify: true
+    sni: advanceyouremploymentskillsandcareerdevelopmenthub.com
+    udp: true
+  - name: "|@ovpn2| AHS -2.76"
+    server: 162.159.138.232
+    port: 443
+    type: trojan
+    password: dQDQCtns4R
+    skip-cert-verify: true
+    sni: fadaei.movieland.top
+    network: ws
+    ws-opts:
+      path: static34528
+      headers:
+        Host: fadaei.movieland.top
+    udp: true
+  - name: "|@vpn_tehran| AHS -3.87"
+    server: 172.64.145.133
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.pleadcourt.org
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.pleadcourt.org
+    udp: true
+  - name: "|@vpn_tehran| AHS -2.77"
+    server: 45.128.76.242
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.trusteeforward.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.trusteeforward.com
+    udp: true
+  - name: "|@ConfigsHUB| AHS -1.97"
+    server: 146.75.57.120
+    port: 443
+    type: trojan
+    password: MiTiVPN
+    skip-cert-verify: true
+    sni: firefox.com
+    network: ws
+    ws-opts:
+      path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+      headers:
+        Host: mitivpn--mitivpn.ac.ir
+    udp: true
+  - name: "|@ConfigsHUB| AHS -4.53"
+    server: 167.82.64.120
+    port: 443
+    type: trojan
+    password: MiTiVPN
+    skip-cert-verify: true
+    sni: firefox.com
+    network: ws
+    ws-opts:
+      path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+      headers:
+        Host: mitivpn--mitivpn.ac.ir
+    udp: true
+  - name: "|@ConfigsHUB| AHS -1.95"
+    server: 151.101.36.120
+    port: 443
+    type: trojan
+    password: MiTiVPN
+    skip-cert-verify: true
+    sni: firefox.com
+    network: ws
+    ws-opts:
+      path: ""
+      headers:
+        Host: mitivpn--mitivpn.ac.ir
+    udp: true
+  - name: "|@v2rayngrit| AHS -2.83"
+    server: 188.42.145.180
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: wWw.Volumeroot.cOm.
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.volumerOot.coM.
+    udp: true
+  - name: "|@v2rayngrit| AHS -3.31"
+    server: 188.42.145.180
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.volumeroot.com
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.volumeroot.com
+    udp: true
+  - name: "|@v2rayngrit| AHS -128.3"
+    server: 46.62.204.134
+    port: 443
+    type: trojan
+    password: humanity
+    skip-cert-verify: true
+    sni: www.pleadcourt.org
+    network: ws
+    ws-opts:
+      path: /assignment
+      headers:
+        Host: www.pleadcourt.org
+    udp: true
+proxy-groups:
+  - name: MANUAL
+    type: select
+    proxies:
+      - "|@oneclickvpnkeys| AHS -2.87"
+      - "|@oneclickvpnkeys| AHS -134.73"
+      - "|@v2ray1_ng| AHS -3.51"
+      - "|@v2ray1_ng| AHS -121.2"
+      - "|@ovpn2| AHS -2.76"
+      - "|@vpn_tehran| AHS -3.87"
+      - "|@vpn_tehran| AHS -2.77"
+      - "|@ConfigsHUB| AHS -1.97"
+      - "|@ConfigsHUB| AHS -4.53"
+      - "|@ConfigsHUB| AHS -1.95"
+      - "|@v2rayngrit| AHS -2.83"
+      - "|@v2rayngrit| AHS -3.31"
+      - "|@v2rayngrit| AHS -128.3"
+      - LOAD-BALANCE
+      - BEST-PING
+      - FALLBACK
+      - DIRECT
+  - name: LOAD-BALANCE
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - "|@oneclickvpnkeys| AHS -2.87"
+      - "|@oneclickvpnkeys| AHS -134.73"
+      - "|@v2ray1_ng| AHS -3.51"
+      - "|@v2ray1_ng| AHS -121.2"
+      - "|@ovpn2| AHS -2.76"
+      - "|@vpn_tehran| AHS -3.87"
+      - "|@vpn_tehran| AHS -2.77"
+      - "|@ConfigsHUB| AHS -1.97"
+      - "|@ConfigsHUB| AHS -4.53"
+      - "|@ConfigsHUB| AHS -1.95"
+      - "|@v2rayngrit| AHS -2.83"
+      - "|@v2rayngrit| AHS -3.31"
+      - "|@v2rayngrit| AHS -128.3"
+  - name: BEST-PING
+    type: url-test
+    url: http://hi.bonds.id/ping
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "|@oneclickvpnkeys| AHS -2.87"
+      - "|@oneclickvpnkeys| AHS -134.73"
+      - "|@v2ray1_ng| AHS -3.51"
+      - "|@v2ray1_ng| AHS -121.2"
+      - "|@ovpn2| AHS -2.76"
+      - "|@vpn_tehran| AHS -3.87"
+      - "|@vpn_tehran| AHS -2.77"
+      - "|@ConfigsHUB| AHS -1.97"
+      - "|@ConfigsHUB| AHS -4.53"
+      - "|@ConfigsHUB| AHS -1.95"
+      - "|@v2rayngrit| AHS -2.83"
+      - "|@v2rayngrit| AHS -3.31"
+      - "|@v2rayngrit| AHS -128.3"
+  - name: FALLBACK
+    type: fallback
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - "|@oneclickvpnkeys| AHS -2.87"
+      - "|@oneclickvpnkeys| AHS -134.73"
+      - "|@v2ray1_ng| AHS -3.51"
+      - "|@v2ray1_ng| AHS -121.2"
+      - "|@ovpn2| AHS -2.76"
+      - "|@vpn_tehran| AHS -3.87"
+      - "|@vpn_tehran| AHS -2.77"
+      - "|@ConfigsHUB| AHS -1.97"
+      - "|@ConfigsHUB| AHS -4.53"
+      - "|@ConfigsHUB| AHS -1.95"
+      - "|@v2rayngrit| AHS -2.83"
+      - "|@v2rayngrit| AHS -3.31"
+      - "|@v2rayngrit| AHS -128.3"
+rules:
+  - MATCH,MANUAL
